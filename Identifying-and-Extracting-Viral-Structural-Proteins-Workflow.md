@@ -1,4 +1,4 @@
-# Viral Isoelectric Point Workflow 
+# Identifying and Extracting Viral Structural Proteins Workflow.md
 
 Viruses were previously identified using VirSorter2 and geNomad, then combined, dereplicated, and quality-filtered to generate a curated viral genome set as noted [here](https://github.com/emilieskoog/WATL/blob/main/Viral-Identification-Workflow.md). We now outline the workflow used to assign viral taxonomy, annotate viral genes, and extract viral structural proteins required for the subsequent viral proteome isoelectric point analysis.
 
