@@ -1,7 +1,4 @@
----
-title: Viral Identification
 
----
 
 ## Viral Identification
 
