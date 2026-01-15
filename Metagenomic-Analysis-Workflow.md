@@ -1,6 +1,6 @@
 
 
-# 🧬 Metagenome Analysis Workflow Co-assembly
+# 🧬 Metagenome Analysis Workflow
 
 This document outlines a complete metagenome analysis pipeline for Illumina paired-end data collected for the Tank Experiment. It includes:
 
