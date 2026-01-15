@@ -1,6 +1,5 @@
-# WATL
-
-## WATL Viral Ecogenomics & Micorbial Evolution — Analysis & Methods Repository
+# WATL Viral Ecogenomics & Micorbial Evolution 
+## Analysis & Methods Repository
 
 #### Overview
 
