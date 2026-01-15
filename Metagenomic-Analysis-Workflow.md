@@ -1,7 +1,4 @@
----
-title: "\U0001F9EC Metagenome Analysis Workflow v2"
 
----
 
 # 🧬 Metagenome Analysis Workflow Co-assembly
 
