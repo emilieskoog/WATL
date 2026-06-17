@@ -67,13 +67,13 @@ mkdir /scratch/eskoog/Tank_Exp/combined_genomad_virsorter2_viral_sequences
 ```
 
 
-## 3. Dereplicate using `CD-HIT-EST` at 95% identity (common threshold for viral clustering)
+## 3. Dereplicate using `CD-HIT-EST` at 97% identity (common threshold for viral clustering)
 
 > The -d 0 keeps full headers (important!).
 -i: input FASTA file
 -o: output FASTA (representative sequences)
--c: identity threshold (e.g., 0.95 = 95%)
--n: word size (must match -c; e.g., 10 for 0.95)
+-c: identity threshold (e.g., 0.97 = 97%)
+-n: word size (must match -c; e.g., 10 for 0.97)
 -T: number of threads
 -M: memory limit in MB
 
