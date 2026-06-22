@@ -56,7 +56,7 @@ makeblastdb -in viral.1.protein.faa -dbtype prot -out viral_protein_db
 blastp \
 -query .faa \
 -db /home/eskoog/old_fram_dir/viral_protein_db \
--out IMGVR_all_proteins-high_confidence_freshwater_viruses_NCBI_RefSeq_blast_filtered.tsv \
+-out all_checkv_quality_filtered_typical_atypical_dereplicated_viruses_from_genomad_virsorter2_virus_blast_db.tsv \
 -evalue 1e-5 \
 -perc_identity 30 \
 -qcov_hsp_perc 50 \
@@ -69,7 +69,7 @@ blastp \
 blastp \
 -query .faa \
 -db /home/eskoog/old_fram_dir/vogdb \
--out IMGVR_all_proteins-high_confidence_freshwater_viruses_VOG_blast.tsv \
+-out all_checkv_quality_filtered_typical_atypical_dereplicated_viruses_from_genomad_virsorter2_virus_vog_db.tsv \
 -evalue 1e-5 \
 -perc_identity 30 \
 -qcov_hsp_perc 50 \
