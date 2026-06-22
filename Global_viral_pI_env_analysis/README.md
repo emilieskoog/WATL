@@ -53,17 +53,28 @@ makeblastdb -in viral.1.protein.faa -dbtype prot -out viral_protein_db
 
 ### BLASTdb
 ```
-for file in *.faa; do
-    blastp -query "$file" -db /home/eskoog/viral_protein_db -out "${file%.faa}_blast_db.tsv" -evalue 1e-5 -outfmt "6 qseqid sseqid pident length evalue stitle"
-done
+blastp \
+-query .faa \
+-db /home/eskoog/old_fram_dir/viral_protein_db \
+-out IMGVR_all_proteins-high_confidence_freshwater_viruses_NCBI_RefSeq_blast_filtered.tsv \
+-evalue 1e-5 \
+-perc_identity 30 \
+-qcov_hsp_perc 50 \
+-outfmt "6 qseqid sseqid pident length qlen slen qstart qend sstart send evalue bitscore qcovhsp stitle" \
+2>&1 | tee freshwater_NCBI_blastp_log.txt
 ```
 
 ### VOGdb
 ```
-for file in *.faa; do
-    blastp -query "$file" -db /home/eskoog/vogdb -out "${file%.faa}_vog_db.tsv" \
-        -evalue 1e-5 -outfmt "6 qseqid sseqid pident length evalue stitle"
-done
+blastp \
+-query .faa \
+-db /home/eskoog/old_fram_dir/vogdb \
+-out IMGVR_all_proteins-high_confidence_freshwater_viruses_VOG_blast.tsv \
+-evalue 1e-5 \
+-perc_identity 30 \
+-qcov_hsp_perc 50 \
+-outfmt "6 qseqid sseqid pident length qlen slen qstart qend sstart send evalue bitscore qcovhsp stitle" \
+2>&1 | tee freshwater_VOG_log.txt
 ```
 
 
