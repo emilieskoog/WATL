@@ -1,0 +1,14 @@
+Virus,AAI to closest RaFAH reference,Host genus,Confidence score,List of methods
+k141_117785,24.88,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus,90.30,iPHoP-RF;92.80
+k141_122778,3.80,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas,92.60,iPHoP-RF;94.70
+k141_169708,3.94,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.30,RaFAH;99.40
+k141_189943,17.90,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halovenus,90.90,blast;93.30 iPHoP-RF;62.20
+k141_223151,47.25,d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Euzebyales;f__Egibacteraceae;g__PUKE01,91.50,blast;93.80 iPHoP-RF;50.70
+k141_234972,,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella,93.90,iPHoP-RF;95.70
+k141_48356,9.88,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides,99.10,RaFAH;99.30
+k141_58941,7.62,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter,95.30,iPHoP-RF;96.70
+k141_61507,9.70,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum,94.60,blast;96.20 iPHoP-RF;91.80
+k141_70280,19.02,d__Bacteria;p__Bacillota_F;c__Halanaerobiia;o__B1SED10-174;f__B1SED10-174;g__T1SED10-26,90.30,blast;92.80 iPHoP-RF;66.80
+k141_70759,18.63,d__Bacteria;p__Bacillota_F;c__Halanaerobiia;o__B1SED10-174;f__B1SED10-174;g__T1SED10-26,90.00,blast;92.50
+k141_82548,,d__Bacteria;p__Bacillota_F;c__Halanaerobiia;o__B1SED10-174;f__B1SED10-174;g__T1SED10-26,91.50,blast;93.80
+k141_85809,10.86,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula,94.50,iPHoP-RF;96.10

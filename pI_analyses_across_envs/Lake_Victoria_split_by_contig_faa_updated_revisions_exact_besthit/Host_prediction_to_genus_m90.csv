@@ -1,0 +1,20 @@
+Virus,AAI to closest RaFAH reference,Host genus,Confidence score,List of methods
+k141_1016731|provirus_136_7188,12.18,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Goleter,91.40,iPHoP-RF;93.70
+k141_1016731|provirus_136_7188,12.18,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Nodularia,90.30,iPHoP-RF;92.80
+k141_1061397,11.85,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Dolichospermum,95.30,iPHoP-RF;96.70
+k141_1106723,5.79,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Nostoc,91.80,iPHoP-RF;94.10
+k141_1106723,5.79,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Trichormus,91.80,iPHoP-RF;94.10
+k141_1106723,5.79,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Aulosira,91.40,iPHoP-RF;93.70
+k141_1135910,5.68,d__Bacteria;p__Planctomycetota;c__Planctomycetia;o__Planctomycetales;f__Planctomycetaceae;g__SXXK01,91.60,blast;93.90 iPHoP-RF;79.50
+k141_1156203,74.64,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__SAR86;f__D2472;g__D2472,92.60,iPHoP-RF;94.70
+k141_1156203,74.64,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__AAA300-D14,91.40,iPHoP-RF;93.70
+k141_209364,10.94,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Trichormus,94.50,iPHoP-RF;96.10
+k141_209364,10.94,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Nostoc,91.80,iPHoP-RF;94.10
+k141_407563,11.30,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae_A;g__UBA3064,90.90,blast;93.30
+k141_540663,53.86,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Porticoccaceae;g__TMED48,91.40,iPHoP-RF;93.70
+k141_753050,4.57,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Dolichospermum,94.90,iPHoP-RF;96.40 blast;93.90
+k141_753050,4.57,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Nostoc_B,91.00,iPHoP-RF;93.40
+k141_753050,4.57,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Nodularia,90.70,iPHoP-RF;93.10 blast;79.60
+k141_753050,4.57,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__Cyanobacteriales;f__Nostocaceae;g__Sphaerospermopsis,90.30,iPHoP-RF;92.80 blast;80.30
+k141_778517,9.76,d__Bacteria;p__Cyanobacteriota;c__Cyanobacteriia;o__PCC-6307;f__Cyanobiaceae;g__Cyanobium,90.00,blast;92.50 iPHoP-RF;68.60
+k141_930540,28.72,d__Bacteria;p__Pseudomonadota;c__Alphaproteobacteria;o__Acetobacterales;f__Acetobacteraceae;g__Roseomonas_B,91.60,blast;93.90 iPHoP-RF;72.80

@@ -1,0 +1,6 @@
+Virus,AAI to closest RaFAH reference,Host genus,Confidence score,List of methods
+k141_106629,5.45,d__Archaea;p__Halobacteriota;c__Methanonatronarchaeia;o__Methanonatronarchaeales;f__Methanonatronarchaeaceae;g__,92.20,blast;94.40 iPHoP-RF;72.20
+k141_111190,35.82,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372,93.90,iPHoP-RF;95.70
+k141_12956,5.61,d__Archaea;p__Halobacteriota;c__Methanonatronarchaeia;o__Methanonatronarchaeales;f__Methanonatronarchaeaceae;g__,91.20,blast;93.60 iPHoP-RF;65.80
+k141_28083,7.37,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio,92.60,iPHoP-RF;94.70
+k141_3231,5.91,d__Archaea;p__Halobacteriota;c__Methanonatronarchaeia;o__Methanonatronarchaeales;f__Methanonatronarchaeaceae;g__,90.60,blast;93.00 iPHoP-RF;68.40

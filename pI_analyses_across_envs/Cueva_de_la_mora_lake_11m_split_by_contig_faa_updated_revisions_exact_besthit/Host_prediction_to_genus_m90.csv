@@ -1,0 +1,5 @@
+Virus,AAI to closest RaFAH reference,Host genus,Confidence score,List of methods
+k141_251,8.60,d__Bacteria;p__Acidobacteriota;c__Terriglobia;o__Terriglobales;f__Acidobacteriaceae;g__Edaphobacter,91.40,iPHoP-RF;93.70
+k141_32587,6.94,d__Bacteria;p__Acidobacteriota;c__Terriglobia;o__Terriglobales;f__Acidobacteriaceae;g__Terracidiphilus,95.90,iPHoP-RF;97.10
+k141_65804,6.25,d__Bacteria;p__Acidobacteriota;c__Terriglobia;o__Terriglobales;f__Acidobacteriaceae;g__Terracidiphilus,92.20,blast;94.40 iPHoP-RF;58.40
+k141_73743|provirus_9466_44571,3.35,d__Bacteria;p__Armatimonadota;c__Chthonomonadetes;o__Chthonomonadales;f__Chthonomonadaceae;g__JAJZFJ01,90.20,blast;92.70

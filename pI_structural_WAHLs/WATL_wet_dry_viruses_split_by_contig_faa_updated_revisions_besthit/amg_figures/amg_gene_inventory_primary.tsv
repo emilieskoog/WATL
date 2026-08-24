@@ -1,0 +1,61 @@
+function	gene_product	n_genes	n_contigs
+2OG-Fe(II) oxygenase	2OG-Fe(II) oxygenase superfamily	22	19
+2OG-Fe(II) oxygenase	Putative 2OG-Fe(II) oxygenase	22	17
+Amino-acid metabolism	Phosphoribosyl-ATP pyrophosphohydrolase	6	6
+Amino-acid metabolism	Serine hydroxymethyltransferase	2	2
+Amino-acid metabolism	Aminotransferase class-V	1	1
+Amino-acid metabolism	Chorismate mutase type II	1	1
+Amino-acid metabolism	Histidine biosynthesis protein	1	1
+Carbohydrate / CAZy	Glycosyl transferases group 1	46	45
+Carbohydrate / CAZy	3-beta hydroxysteroid dehydrogenase/isomerase family	11	11
+Carbohydrate / CAZy	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase	6	6
+Carbohydrate / CAZy	NAD dependent epimerase/dehydratase family	6	6
+Carbohydrate / CAZy	Bacterial transferase hexapeptide (six repeats)	5	5
+Carbohydrate / CAZy	Glycosyltransferase sugar-binding region containing DXD motif	4	4
+Carbohydrate / CAZy	Glycosyltransferase family 17	2	2
+Carbohydrate / CAZy	Alpha-L-arabinofuranosidase B, catalytic	1	1
+Carbohydrate / CAZy	GALE; UDP-Glc -> UDP-Gal	1	1
+Carbohydrate / CAZy	NAD binding domain of 6-phosphogluconate dehydrogenase	1	1
+Carbohydrate / CAZy	UDP-glucose/GDP-mannose dehydrogenase family, NAD binding domain	1	1
+Carbohydrate / CAZy	manA; mannose-6-phosphate isomerase	1	1
+Cofactor / vitamin / tRNA	6-pyruvoyl tetrahydropterin synthase	9	9
+Cofactor / vitamin / tRNA	GTP cyclohydrolase I	7	7
+Cofactor / vitamin / tRNA	cobS; cobaltochelatase CobS	5	5
+Cofactor / vitamin / tRNA	Pyridoxal-phosphate dependent enzyme	4	4
+Cofactor / vitamin / tRNA	Formyl transferase	3	3
+Cofactor / vitamin / tRNA	cobT; cobaltochelatase CobT	3	3
+Cofactor / vitamin / tRNA	Queuosine biosynthesis protein QueC	2	2
+Cofactor / vitamin / tRNA	Cobalamin biosynthesis protein CobT VWA domain	1	1
+Cofactor / vitamin / tRNA	Nicotinate phosphoribosyltransferase (NAPRTase) family	1	1
+Cofactor / vitamin / tRNA	Phosphopantetheine attachment site	1	1
+Cofactor / vitamin / tRNA	QueF-like protein	1	1
+DNA methylation / RM	DNA (cytosine-5-)-methyltransferase	18	18
+Energy & electron transp	FMN-dependent dehydrogenase	1	1
+Energy & electron transp	Rubredoxin	1	1
+Energy & electron transp	cytochrome bd ubiquinol oxidase subunit I	1	1
+Glycan binding / adhesion	Concanavalin A-like lectin; extracellular arabinase	51	43
+Lipid metabolism	Patatin-like phospholipase	2	2
+Lipid metabolism	Beta-ketoacyl synthase, C-terminal domain	1	1
+Lipid metabolism	Fatty acid desaturase	1	1
+Nucleotide metabolism	ribonucleoside-diphosphate reductase	17	15
+Nucleotide metabolism	nrdA/nrdB; ribonucleotide reductase (RNR)	14	13
+Nucleotide metabolism	Cytidylyltransferase	11	11
+Nucleotide metabolism	dCTP deaminase	8	8
+Nucleotide metabolism	dUTP pyrophosphatase	5	5
+Nucleotide metabolism	Carbamoyltransferase	4	4
+Nucleotide metabolism	dTMP kinase	3	3
+Nucleotide metabolism	thymidylate synthase	3	3
+Nucleotide metabolism	Guanylate kinase	1	1
+Nucleotide metabolism	adenylosuccinate synthase	1	1
+Other / unclassified	Self-processing occurs at the Ser846|+|Ala bond.	3	3
+Other / unclassified	small subunit ribosomal protein S21	1	1
+Phosphate / nutrient	phoH; phosphate starvation-inducible protein	22	22
+Phosphate / nutrient	phoA; alkaline phosphatase	2	2
+Photosynthesis / phycobilin	cp12, calvin cycle protein inhibitor	3	3
+Photosynthesis / phycobilin	Ferredoxin-dependent bilin reductase	1	1
+Photosynthesis / phycobilin	Heme oxygenase	1	1
+Photosynthesis / phycobilin	cpeT; phycoerythrin biosynthesis gene	1	1
+Photosynthesis / phycobilin	psbA; photosystem II reaction center D1 protein	1	1
+Polyamine	speD; S-adenosylmethionine decarboxylase	4	4
+Sulfotransferase	Sulfotransferase family	18	16
+Sulfotransferase	Sulfotransferase domain	5	5

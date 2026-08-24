@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="650.059062pt" version="1.1" viewBox="0 0 882.291172 650.059062" width="882.291172pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-24T11:08:04.618600</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 650.059062 
+L 882.291172 650.059062 
+L 882.291172 0 
+L 0 0 
+z
+" style="fill:#ffffff;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 201.763906 613.329375 
+L 737.263906 613.329375 
+L 737.263906 31.209375 
+L 201.763906 31.209375 
+z
+" style="fill:#ffffff;"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 610.447593 
+L 223.013906 610.447593 
+L 223.013906 598.17057 
+L 201.763906 598.17057 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 593.857022 
+L 223.013906 593.857022 
+L 223.013906 581.579999 
+L 201.763906 581.579999 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 577.266451 
+L 223.013906 577.266451 
+L 223.013906 564.989428 
+L 201.763906 564.989428 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 560.67588 
+L 223.013906 560.67588 
+L 223.013906 548.398857 
+L 201.763906 548.398857 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 544.085309 
+L 244.263906 544.085309 
+L 244.263906 531.808286 
+L 201.763906 531.808286 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 527.494738 
+L 244.263906 527.494738 
+L 244.263906 515.217715 
+L 201.763906 515.217715 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_9">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 510.904167 
+L 286.763906 510.904167 
+L 286.763906 498.627144 
+L 201.763906 498.627144 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_10">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 494.313596 
+L 541.763906 494.313596 
+L 541.763906 482.036573 
+L 201.763906 482.036573 
+z
+" style="fill:#3d6fb4;"/>
+   </g>
+   <g id="patch_11">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 477.723025 
+L 711.763906 477.723025 
+L 711.763906 465.446003 
+L 201.763906 465.446003 
+z
+" style="fill:#4a90c4;"/>
+   </g>
+   <g id="patch_12">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 461.132454 
+L 223.013906 461.132454 
+L 223.013906 448.855432 
+L 201.763906 448.855432 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_13">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 444.541883 
+L 223.013906 444.541883 
+L 223.013906 432.264861 
+L 201.763906 432.264861 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_14">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 427.951312 
+L 223.013906 427.951312 
+L 223.013906 415.67429 
+L 201.763906 415.67429 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_15">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 411.360741 
+L 223.013906 411.360741 
+L 223.013906 399.083719 
+L 201.763906 399.083719 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_16">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 394.77017 
+L 244.263906 394.77017 
+L 244.263906 382.493148 
+L 201.763906 382.493148 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_17">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 378.179599 
+L 244.263906 378.179599 
+L 244.263906 365.902577 
+L 201.763906 365.902577 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_18">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 361.589028 
+L 244.263906 361.589028 
+L 244.263906 349.312006 
+L 201.763906 349.312006 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_19">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 344.998457 
+L 265.513906 344.998457 
+L 265.513906 332.721435 
+L 201.763906 332.721435 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_20">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 328.407886 
+L 286.763906 328.407886 
+L 286.763906 316.130864 
+L 201.763906 316.130864 
+z
+" style="fill:#2a7f62;"/>
+   </g>
+   <g id="patch_21">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 311.817315 
+L 265.513906 311.817315 
+L 265.513906 299.540293 
+L 201.763906 299.540293 
+z
+" style="fill:#7a6aa8;"/>
+   </g>
+   <g id="patch_22">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 295.226744 
+L 371.763906 295.226744 
+L 371.763906 282.949722 
+L 201.763906 282.949722 
+z
+" style="fill:#7a6aa8;"/>
+   </g>
+   <g id="patch_23">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 278.636173 
+L 265.513906 278.636173 
+L 265.513906 266.359151 
+L 201.763906 266.359151 
+z
+" style="fill:#8c6d4f;"/>
+   </g>
+   <g id="patch_24">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 262.045602 
+L 329.263906 262.045602 
+L 329.263906 249.76858 
+L 201.763906 249.76858 
+z
+" style="fill:#8c6d4f;"/>
+   </g>
+   <g id="patch_25">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 245.455031 
+L 223.013906 245.455031 
+L 223.013906 233.178009 
+L 201.763906 233.178009 
+z
+" style="fill:#c9a03a;"/>
+   </g>
+   <g id="patch_26">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 228.86446 
+L 223.013906 228.86446 
+L 223.013906 216.587438 
+L 201.763906 216.587438 
+z
+" style="fill:#c9a03a;"/>
+   </g>
+   <g id="patch_27">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 212.273889 
+L 244.263906 212.273889 
+L 244.263906 199.996867 
+L 201.763906 199.996867 
+z
+" style="fill:#c9a03a;"/>
+   </g>
+   <g id="patch_28">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 195.683318 
+L 244.263906 195.683318 
+L 244.263906 183.406296 
+L 201.763906 183.406296 
+z
+" style="fill:#c9a03a;"/>
+   </g>
+   <g id="patch_29">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 179.092747 
+L 244.263906 179.092747 
+L 244.263906 166.815725 
+L 201.763906 166.815725 
+z
+" style="fill:#c9a03a;"/>
+   </g>
+   <g id="patch_30">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 162.502177 
+L 223.013906 162.502177 
+L 223.013906 150.225154 
+L 201.763906 150.225154 
+z
+" style="fill:#5a9e5a;"/>
+   </g>
+   <g id="patch_31">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 145.911606 
+L 308.013906 145.911606 
+L 308.013906 133.634583 
+L 201.763906 133.634583 
+z
+" style="fill:#5a9e5a;"/>
+   </g>
+   <g id="patch_32">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 129.321035 
+L 223.013906 129.321035 
+L 223.013906 117.044012 
+L 201.763906 117.044012 
+z
+" style="fill:#c8622d;"/>
+   </g>
+   <g id="patch_33">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 112.730464 
+L 244.263906 112.730464 
+L 244.263906 100.453441 
+L 201.763906 100.453441 
+z
+" style="fill:#c8622d;"/>
+   </g>
+   <g id="patch_34">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 96.139893 
+L 265.513906 96.139893 
+L 265.513906 83.86287 
+L 201.763906 83.86287 
+z
+" style="fill:#2e9e6b;"/>
+   </g>
+   <g id="patch_35">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 79.549322 
+L 223.013906 79.549322 
+L 223.013906 67.272299 
+L 201.763906 67.272299 
+z
+" style="fill:#1b7f9e;"/>
+   </g>
+   <g id="patch_36">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 62.958751 
+L 223.013906 62.958751 
+L 223.013906 50.681728 
+L 201.763906 50.681728 
+z
+" style="fill:#1b7f9e;"/>
+   </g>
+   <g id="patch_37">
+    <path clip-path="url(#pac12acc8d0)" d="M 201.763906 46.36818 
+L 223.013906 46.36818 
+L 223.013906 34.091157 
+L 201.763906 34.091157 
+z
+" style="fill:#a05a7a;"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path d="M 0 0 
+L 0 3.5 
+" id="m876e648a3b" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m876e648a3b" y="613.329375"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 201.763906, 627.487188)" x="201.763906" y="627.487188">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="308.013906" xlink:href="#m876e648a3b" y="613.329375"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 308.013906, 627.487188)" x="308.013906" y="627.487188">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="414.263906" xlink:href="#m876e648a3b" y="613.329375"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 414.263906, 627.487188)" x="414.263906" y="627.487188">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="520.513906" xlink:href="#m876e648a3b" y="613.329375"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 520.513906, 627.487188)" x="520.513906" y="627.487188">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="626.763906" xlink:href="#m876e648a3b" y="613.329375"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 626.763906, 627.487188)" x="626.763906" y="627.487188">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="733.013906" xlink:href="#m876e648a3b" y="613.329375"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 733.013906, 627.487188)" x="733.013906" y="627.487188">25</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 469.513906, 640.754375)" x="469.513906" y="640.754375">distinct AMG genes</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path d="M 0 0 
+L -3.5 0 
+" id="m89cb878816" style="stroke:#000000;stroke-width:0.8;"/>
+      </defs>
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="604.309082"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 606.856972)" x="194.763906" y="606.856972">3-beta hydroxysteroid dehydrogenase/isomerase family</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="587.718511"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 590.266401)" x="194.763906" y="590.266401">Alpha-L-arabinofuranosidase B, catalytic</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="571.12794"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 573.67583)" x="194.763906" y="573.67583">Glycosyltransferase family 17</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="554.537369"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 557.085259)" x="194.763906" y="557.085259">NAD binding domain of 6-phosphogluconate dehydrogenase</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="537.946798"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 540.452032)" x="194.763906" y="540.452032">Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="521.356227"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 523.904117)" x="194.763906" y="523.904117">NAD dependent epimerase/dehydratase family</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="504.765656"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 507.313546)" x="194.763906" y="507.313546">Bacterial transferase hexapeptide (six repeats)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="488.175085"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 490.722975)" x="194.763906" y="490.722975">Glycosyl transferases group 1</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="471.584514"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 474.089748)" x="194.763906" y="474.089748">Concanavalin A-like lectin; extracellular arabinase</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="454.993943"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 457.541833)" x="194.763906" y="457.541833">Carbamoyltransferase</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_17">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="438.403372"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 440.951262)" x="194.763906" y="440.951262">Guanylate kinase</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_18">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="421.812801"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 424.318035)" x="194.763906" y="424.318035">adenylosuccinate synthase</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_19">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="405.22223"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 407.727464)" x="194.763906" y="407.727464">thymidylate synthase</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_20">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="388.631659"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 391.17955)" x="194.763906" y="391.17955">Cytidylyltransferase</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_21">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="372.041088"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 374.546322)" x="194.763906" y="374.546322">dCTP deaminase</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_22">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="355.450517"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 357.955751)" x="194.763906" y="357.955751">dUTP pyrophosphatase</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_23">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="338.859946"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 341.407837)" x="194.763906" y="341.407837">nrdA/nrdB; ribonucleotide reductase (RNR)</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_24">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="322.269375"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 324.774609)" x="194.763906" y="324.774609">ribonucleoside-diphosphate reductase</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_25">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="305.678804"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 308.184038)" x="194.763906" y="308.184038">Sulfotransferase domain</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_26">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="289.088233"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 291.636124)" x="194.763906" y="291.636124">Sulfotransferase family</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_27">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="272.497662"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 275.04774)" x="194.763906" y="275.04774">Putative 2OG-Fe(II) oxygenase</text>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_28">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="255.907091"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 258.457169)" x="194.763906" y="258.457169">2OG-Fe(II) oxygenase superfamily</text>
+     </g>
+    </g>
+    <g id="ytick_23">
+     <g id="line2d_29">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="239.31652"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 241.821755)" x="194.763906" y="241.821755">Pyridoxal-phosphate dependent enzyme</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_30">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="222.725949"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 225.231184)" x="194.763906" y="225.231184">cobT; cobaltochelatase CobT</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_31">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="206.135378"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 208.651003)" x="194.763906" y="208.651003">6-pyruvoyl tetrahydropterin synthase</text>
+     </g>
+    </g>
+    <g id="ytick_26">
+     <g id="line2d_32">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="189.544807"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 192.092698)" x="194.763906" y="192.092698">GTP cyclohydrolase I</text>
+     </g>
+    </g>
+    <g id="ytick_27">
+     <g id="line2d_33">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="172.954236"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 175.459471)" x="194.763906" y="175.459471">cobS; cobaltochelatase CobS</text>
+     </g>
+    </g>
+    <g id="ytick_28">
+     <g id="line2d_34">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="156.363665"/>
+      </g>
+     </g>
+     <g id="text_35">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 158.8689)" x="194.763906" y="158.8689">phoA; alkaline phosphatase</text>
+     </g>
+    </g>
+    <g id="ytick_29">
+     <g id="line2d_35">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="139.773094"/>
+      </g>
+     </g>
+     <g id="text_36">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 142.278329)" x="194.763906" y="142.278329">phoH; phosphate starvation-inducible protein</text>
+     </g>
+    </g>
+    <g id="ytick_30">
+     <g id="line2d_36">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="123.182523"/>
+      </g>
+     </g>
+     <g id="text_37">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 125.730414)" x="194.763906" y="125.730414">Serine hydroxymethyltransferase</text>
+     </g>
+    </g>
+    <g id="ytick_31">
+     <g id="line2d_37">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="106.591952"/>
+      </g>
+     </g>
+     <g id="text_38">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 109.097187)" x="194.763906" y="109.097187">Phosphoribosyl-ATP pyrophosphohydrolase</text>
+     </g>
+    </g>
+    <g id="ytick_32">
+     <g id="line2d_38">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="90.001381"/>
+      </g>
+     </g>
+     <g id="text_39">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 92.517006)" x="194.763906" y="92.517006">cp12, calvin cycle protein inhibitor</text>
+     </g>
+    </g>
+    <g id="ytick_33">
+     <g id="line2d_39">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="73.41081"/>
+      </g>
+     </g>
+     <g id="text_40">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 75.916045)" x="194.763906" y="75.916045">FMN-dependent dehydrogenase</text>
+     </g>
+    </g>
+    <g id="ytick_34">
+     <g id="line2d_40">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="56.820239"/>
+      </g>
+     </g>
+     <g id="text_41">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 59.325474)" x="194.763906" y="59.325474">cytochrome bd ubiquinol oxidase subunit I</text>
+     </g>
+    </g>
+    <g id="ytick_35">
+     <g id="line2d_41">
+      <g>
+       <use style="stroke:#000000;stroke-width:0.8;" x="201.763906" xlink:href="#m89cb878816" y="40.229668"/>
+      </g>
+     </g>
+     <g id="text_42">
+      <text style="font-family:Arial;font-size:7px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 194.763906, 42.734903)" x="194.763906" y="42.734903">Fatty acid desaturase</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_38">
+    <path d="M 201.763906 613.329375 
+L 201.763906 31.209375 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="patch_39">
+    <path d="M 201.763906 613.329375 
+L 737.263906 613.329375 
+" style="fill:none;stroke:#000000;stroke-linecap:square;stroke-linejoin:miter;stroke-width:0.8;"/>
+   </g>
+   <g id="text_43">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 605.989433)" x="225.138906" y="605.989433">1</text>
+   </g>
+   <g id="text_44">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 589.398862)" x="225.138906" y="589.398862">1</text>
+   </g>
+   <g id="text_45">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 572.808291)" x="225.138906" y="572.808291">1</text>
+   </g>
+   <g id="text_46">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 556.21772)" x="225.138906" y="556.21772">1</text>
+   </g>
+   <g id="text_47">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 539.627149)" x="246.388906" y="539.627149">2</text>
+   </g>
+   <g id="text_48">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 523.036578)" x="246.388906" y="523.036578">2</text>
+   </g>
+   <g id="text_49">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 288.888906, 506.446007)" x="288.888906" y="506.446007">4</text>
+   </g>
+   <g id="text_50">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 543.888906, 489.855436)" x="543.888906" y="489.855436">16</text>
+   </g>
+   <g id="text_51">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 713.888906, 473.264865)" x="713.888906" y="473.264865">24</text>
+   </g>
+   <g id="text_52">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 456.674294)" x="225.138906" y="456.674294">1</text>
+   </g>
+   <g id="text_53">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 440.083723)" x="225.138906" y="440.083723">1</text>
+   </g>
+   <g id="text_54">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 423.493152)" x="225.138906" y="423.493152">1</text>
+   </g>
+   <g id="text_55">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 406.902581)" x="225.138906" y="406.902581">1</text>
+   </g>
+   <g id="text_56">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 390.31201)" x="246.388906" y="390.31201">2</text>
+   </g>
+   <g id="text_57">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 373.721439)" x="246.388906" y="373.721439">2</text>
+   </g>
+   <g id="text_58">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 357.130869)" x="246.388906" y="357.130869">2</text>
+   </g>
+   <g id="text_59">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 267.638906, 340.540298)" x="267.638906" y="340.540298">3</text>
+   </g>
+   <g id="text_60">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 288.888906, 323.949727)" x="288.888906" y="323.949727">4</text>
+   </g>
+   <g id="text_61">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 267.638906, 307.359156)" x="267.638906" y="307.359156">3</text>
+   </g>
+   <g id="text_62">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 373.888906, 290.768585)" x="373.888906" y="290.768585">8</text>
+   </g>
+   <g id="text_63">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 267.638906, 274.178014)" x="267.638906" y="274.178014">3</text>
+   </g>
+   <g id="text_64">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 331.388906, 257.587443)" x="331.388906" y="257.587443">6</text>
+   </g>
+   <g id="text_65">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 240.996872)" x="225.138906" y="240.996872">1</text>
+   </g>
+   <g id="text_66">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 224.406301)" x="225.138906" y="224.406301">1</text>
+   </g>
+   <g id="text_67">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 207.81573)" x="246.388906" y="207.81573">2</text>
+   </g>
+   <g id="text_68">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 191.225159)" x="246.388906" y="191.225159">2</text>
+   </g>
+   <g id="text_69">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 174.634588)" x="246.388906" y="174.634588">2</text>
+   </g>
+   <g id="text_70">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 158.044017)" x="225.138906" y="158.044017">1</text>
+   </g>
+   <g id="text_71">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 310.138906, 141.453446)" x="310.138906" y="141.453446">5</text>
+   </g>
+   <g id="text_72">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 124.862875)" x="225.138906" y="124.862875">1</text>
+   </g>
+   <g id="text_73">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 246.388906, 108.272304)" x="246.388906" y="108.272304">2</text>
+   </g>
+   <g id="text_74">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 267.638906, 91.681733)" x="267.638906" y="91.681733">3</text>
+   </g>
+   <g id="text_75">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 75.091162)" x="225.138906" y="75.091162">1</text>
+   </g>
+   <g id="text_76">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 58.500591)" x="225.138906" y="58.500591">1</text>
+   </g>
+   <g id="text_77">
+    <text style="fill:#444444;font-family:Arial;font-size:6.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 225.138906, 41.91002)" x="225.138906" y="41.91002">1</text>
+   </g>
+   <g id="text_78">
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;" transform="translate(201.763906 14.479688)">Viral AMGs at auxiliary score ≤ 1</text>
+    <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:bold;" transform="translate(201.763906 25.209375)">n = 112 genes on 69 contigs</text>
+   </g>
+   <g id="legend_1">
+    <g id="text_79">
+     <text style="font-family:Arial;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 768.762852, 45.239063)" x="768.762852" y="45.239063">functional category</text>
+    </g>
+    <g id="patch_40">
+     <path d="M 749.368906 56.553516 
+L 764.368906 56.553516 
+L 764.368906 51.303516 
+L 749.368906 51.303516 
+z
+" style="fill:#3d6fb4;stroke:#3d6fb4;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_80">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 56.553516)" x="770.368906" y="56.553516">Carbohydrate / CAZy (28)</text>
+    </g>
+    <g id="patch_41">
+     <path d="M 749.368906 67.341797 
+L 764.368906 67.341797 
+L 764.368906 62.091797 
+L 749.368906 62.091797 
+z
+" style="fill:#4a90c4;stroke:#4a90c4;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_81">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 67.341797)" x="770.368906" y="67.341797">Glycan binding / adhesion (24)</text>
+    </g>
+    <g id="patch_42">
+     <path d="M 749.368906 78.130078 
+L 764.368906 78.130078 
+L 764.368906 72.880078 
+L 749.368906 72.880078 
+z
+" style="fill:#2a7f62;stroke:#2a7f62;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_82">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 78.130078)" x="770.368906" y="78.130078">Nucleotide metabolism (17)</text>
+    </g>
+    <g id="patch_43">
+     <path d="M 749.368906 88.918359 
+L 764.368906 88.918359 
+L 764.368906 83.668359 
+L 749.368906 83.668359 
+z
+" style="fill:#7a6aa8;stroke:#7a6aa8;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_83">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 88.918359)" x="770.368906" y="88.918359">Sulfotransferase (11)</text>
+    </g>
+    <g id="patch_44">
+     <path d="M 749.368906 99.711328 
+L 764.368906 99.711328 
+L 764.368906 94.461328 
+L 749.368906 94.461328 
+z
+" style="fill:#8c6d4f;stroke:#8c6d4f;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_84">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 99.711328)" x="770.368906" y="99.711328">2OG-Fe(II) oxygenase (9)</text>
+    </g>
+    <g id="patch_45">
+     <path d="M 749.368906 110.499609 
+L 764.368906 110.499609 
+L 764.368906 105.249609 
+L 749.368906 105.249609 
+z
+" style="fill:#c9a03a;stroke:#c9a03a;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_85">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 110.499609)" x="770.368906" y="110.499609">Cofactor / vitamin / tRNA (8)</text>
+    </g>
+    <g id="patch_46">
+     <path d="M 749.368906 121.287891 
+L 764.368906 121.287891 
+L 764.368906 116.037891 
+L 749.368906 116.037891 
+z
+" style="fill:#5a9e5a;stroke:#5a9e5a;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_86">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 121.287891)" x="770.368906" y="121.287891">Phosphate / nutrient (6)</text>
+    </g>
+    <g id="patch_47">
+     <path d="M 749.368906 132.076172 
+L 764.368906 132.076172 
+L 764.368906 126.826172 
+L 749.368906 126.826172 
+z
+" style="fill:#c8622d;stroke:#c8622d;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_87">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 132.076172)" x="770.368906" y="132.076172">Amino-acid metabolism (3)</text>
+    </g>
+    <g id="patch_48">
+     <path d="M 749.368906 142.864453 
+L 764.368906 142.864453 
+L 764.368906 137.614453 
+L 749.368906 137.614453 
+z
+" style="fill:#2e9e6b;stroke:#2e9e6b;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_88">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 142.864453)" x="770.368906" y="142.864453">Photosynthesis / phycobilin (3)</text>
+    </g>
+    <g id="patch_49">
+     <path d="M 749.368906 153.652734 
+L 764.368906 153.652734 
+L 764.368906 148.402734 
+L 749.368906 148.402734 
+z
+" style="fill:#1b7f9e;stroke:#1b7f9e;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_89">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 153.652734)" x="770.368906" y="153.652734">Energy &amp; electron transp (2)</text>
+    </g>
+    <g id="patch_50">
+     <path d="M 749.368906 164.441016 
+L 764.368906 164.441016 
+L 764.368906 159.191016 
+L 749.368906 159.191016 
+z
+" style="fill:#a05a7a;stroke:#a05a7a;stroke-linejoin:miter;"/>
+    </g>
+    <g id="text_90">
+     <text style="font-family:Arial;font-size:7.5px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 770.368906, 164.441016)" x="770.368906" y="164.441016">Lipid metabolism (1)</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pac12acc8d0">
+   <rect height="582.12" width="535.5" x="201.763906" y="31.209375"/>
+  </clipPath>
+ </defs>
+</svg>

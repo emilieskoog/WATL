@@ -1,0 +1,1 @@
+iphop predict --fa_file /scratch/eskoog/WATL_wet_dry_viral_analysis/checkV_output/all_checkv_quality_filtered_typical_atypical_dereplicated_viruses_from_genomad_virsorter2.fna --db_dir /home/eskoog/iphop_db/Aug_2023_pub_rw_WATL_MAGs_wet_and_dry --out_dir iphop_output/ -t 50

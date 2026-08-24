@@ -1,0 +1,5 @@
+type,min_covered_fraction,n_detections,pct_detections_vs_unfiltered,n_contigs_detected,pct_contigs_vs_unfiltered,rpkm_sum_retained,pct_rpkm_retained
+all,0.0,71711,100.0,11271,100.0,10122732.54,100.0
+all,0.1,37545,52.4,11091,98.4,9059139.6,89.5
+all,0.5,20691,28.9,10363,91.9,8160717.44,80.6
+all,0.75,15907,22.2,9610,85.3,7421880.81,73.3

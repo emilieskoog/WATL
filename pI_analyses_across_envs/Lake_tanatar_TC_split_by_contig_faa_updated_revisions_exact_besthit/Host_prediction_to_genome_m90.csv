@@ -1,0 +1,62 @@
+Virus,Host genome,Host taxonomy,Main method,Confidence score,Additional methods
+k141_117785,GB_GCA_905221065.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus sp905221065,iPHoP-RF,92.80,None
+k141_117785,RS_GCF_000722775.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mitis_AV,iPHoP-RF,92.80,None
+k141_117785,RS_GCF_002005545.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mitis_I,iPHoP-RF,92.80,None
+k141_117785,RS_GCF_002096845.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mitis_A,iPHoP-RF,92.80,None
+k141_117785,GB_GCA_001914195.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mitis_F,iPHoP-RF,92.40,None
+k141_117785,RS_GCF_019448285.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus sp019448285,iPHoP-RF,92.40,None
+k141_117785,GB_GCA_905221095.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus sp905221095,iPHoP-RF,92.10,None
+k141_117785,GB_GCA_905221235.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus sp905221235,iPHoP-RF,92.10,None
+k141_117785,RS_GCF_002096835.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus mitis_W,iPHoP-RF,92.10,None
+k141_117785,3300008431_3,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__,iPHoP-RF,91.40,None
+k141_117785,GB_GCA_905221215.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus sp905221215,iPHoP-RF,91.40,None
+k141_117785,RS_GCF_002860905.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus oralis_BA,iPHoP-RF,91.40,None
+k141_117785,RS_GCF_013277415.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Streptococcaceae;g__Streptococcus;s__Streptococcus sp013277415,iPHoP-RF,91.40,None
+k141_122778,3300012111_9,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas;s__,iPHoP-RF,94.70,None
+k141_122778,3300025361_11,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas;s__,iPHoP-RF,94.70,None
+k141_122778,RS_GCF_900142895.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Pseudomonadales;f__Halomonadaceae;g__Halomonas;s__Halomonas subglaciescola,iPHoP-RF,92.40,None
+k141_122778,RS_GCF_014192715.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Xanthomonadales;f__Rhodanobacteraceae;g__Luteibacter;s__Luteibacter sp014192715,iPHoP-RF,92.10,None
+k141_135223,GB_GCA_001564135.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halovenus;s__Halovenus sp001564135,iPHoP-RF,90.80,None
+k141_142161,3300024428_8,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466;s__,iPHoP-RF,90.80,None
+k141_142161,3300024334_10,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA4466;s__,iPHoP-RF,90.50,None
+k141_142161,GB_GCA_002389645.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Salibacteraceae;g__SHAN690;s__SHAN690 sp002389645,iPHoP-RF,90.50,None
+k141_168634,GB_GCA_018064605.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__F082;g__Limimorpha;s__Limimorpha sp018064605,iPHoP-RF,90.80,None
+k141_173993,RS_GCF_003977755.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Natrialbaceae;g__Haloterrigena;s__Haloterrigena salifodinae,blast,91.90,iPHoP-RF;61.10
+k141_189943,GB_GCA_003551265.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Halovenus;s__Halovenus sp003551265,blast,93.30,iPHoP-RF;62.20
+k141_20589,GB_GCA_003566155.1,d__Bacteria;p__Bipolaricaulota;c__Bipolaricaulia;o__Bipolaricaulales;f__Bipolaricaulaceae;g__T3SED10-47;s__T3SED10-47 sp003566155,blast,90.40,iPHoP-RF;60.60
+k141_223151,GB_GCA_003550425.1,d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Euzebyales;f__Egibacteraceae;g__PUKE01;s__PUKE01 sp003550425,blast,93.80,iPHoP-RF;50.70
+k141_224202,GB_GCA_003550645.1,d__Bacteria;p__Bacillota_D;c__Dethiobacteria;o__DTU022;f__DTU022;g__B1SED10-74M;s__B1SED10-74M sp003550645,blast,91.90,None
+k141_234972,GB_GCA_016285245.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp016285245,iPHoP-RF,95.70,None
+k141_234972,GB_GCA_900316475.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp900316475,iPHoP-RF,95.40,None
+k141_234972,GB_GCA_017632825.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp017632825,iPHoP-RF,95.10,None
+k141_234972,GB_GCA_902794405.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella sp902794405,iPHoP-RF,94.40,None
+k141_234972,MGYG000291621,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__,iPHoP-RF,94.40,None
+k141_48356,GB_GCA_007129085.1,d__Bacteria;p__Bacteroidota;c__Rhodothermia;o__Balneolales;f__Balneolaceae;g__SW132;s__SW132 sp007129085,blast,92.00,iPHoP-RF;68.60
+k141_58941,3300022751_8,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__,iPHoP-RF,96.70,None
+k141_58941,3300012943_27,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__,iPHoP-RF,96.10,None
+k141_58941,3300025261_8,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__,iPHoP-RF,95.70,None
+k141_58941,3300022750_9,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__,iPHoP-RF,95.40,None
+k141_58941,RS_GCF_002797815.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__Mucilaginibacter auburnensis,iPHoP-RF,95.10,None
+k141_58941,3300023092_5,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__,iPHoP-RF,94.40,None
+k141_58941,RS_GCF_022953055.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__Mucilaginibacter sp022953055,iPHoP-RF,94.10,None
+k141_58941,RS_GCF_014200495.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Sphingobacteriales;f__Sphingobacteriaceae;g__Mucilaginibacter;s__Mucilaginibacter sp014200495,iPHoP-RF,90.50,None
+k141_61507,RS_GCF_004114995.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum amylolyticum,blast,96.20,iPHoP-RF;68.90
+k141_61507,RS_GCF_001542905.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum aethiopicum,iPHoP-RF,91.80,None
+k141_70280,GB_GCA_003554145.1,d__Bacteria;p__Bacillota_F;c__Halanaerobiia;o__B1SED10-174;f__B1SED10-174;g__T1SED10-26;s__T1SED10-26 sp003554145,blast,92.80,iPHoP-RF;66.80
+k141_70759,GB_GCA_003554145.1,d__Bacteria;p__Bacillota_F;c__Halanaerobiia;o__B1SED10-174;f__B1SED10-174;g__T1SED10-26;s__T1SED10-26 sp003554145,blast,92.50,None
+k141_82548,GB_GCA_003554145.1,d__Bacteria;p__Bacillota_F;c__Halanaerobiia;o__B1SED10-174;f__B1SED10-174;g__T1SED10-26;s__T1SED10-26 sp003554145,blast,93.80,None
+k141_85809,RS_GCF_000336615.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula amylolytica,iPHoP-RF,96.10,None
+k141_85809,RS_GCF_000223905.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula hispanica,iPHoP-RF,95.70,None
+k141_85809,RS_GCF_000011085.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula marismortui,iPHoP-RF,95.40,None
+k141_85809,RS_GCF_014647415.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula sebkhae,iPHoP-RF,95.40,None
+k141_85809,GB_GCA_000336895.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula argentinensis,iPHoP-RF,95.10,None
+k141_85809,RS_GCF_008729015.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula sp008729015,iPHoP-RF,94.70,None
+k141_85809,3300026989_4,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__,iPHoP-RF,94.40,None
+k141_85809,RS_GCF_001280425.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula rubripromontorii,iPHoP-RF,94.40,None
+k141_85809,RS_GCF_001485575.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula sp001485575,iPHoP-RF,94.40,None
+k141_85809,RS_GCF_002844335.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula taiwanensis,iPHoP-RF,94.10,None
+k141_85809,RS_GCF_000336635.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula japonica,iPHoP-RF,93.70,None
+k141_85809,RS_GCF_000337775.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloarculaceae;g__Haloarcula;s__Haloarcula vallismortis,iPHoP-RF,90.50,None
+k141_99347,RS_GCF_002156705.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Natrialbaceae;g__Natrarchaeobaculum;s__Natrarchaeobaculum aegyptiacum,blast,91.90,iPHoP-RF;77.10
+k141_99347,RS_GCF_000025625.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Natrialbaceae;g__Natrialba;s__Natrialba magadii,blast,91.20,iPHoP-RF;71.10
+k141_99347,RS_GCF_000337895.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Natrialbaceae;g__Halobiforma;s__Halobiforma nitratireducens,blast,90.10,iPHoP-RF;70.00

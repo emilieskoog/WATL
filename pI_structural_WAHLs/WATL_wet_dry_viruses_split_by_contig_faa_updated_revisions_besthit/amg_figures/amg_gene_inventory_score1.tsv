@@ -1,0 +1,36 @@
+function	gene_product	n_genes	n_contigs
+2OG-Fe(II) oxygenase	2OG-Fe(II) oxygenase superfamily	6	4
+2OG-Fe(II) oxygenase	Putative 2OG-Fe(II) oxygenase	3	3
+Amino-acid metabolism	Phosphoribosyl-ATP pyrophosphohydrolase	2	2
+Amino-acid metabolism	Serine hydroxymethyltransferase	1	1
+Carbohydrate / CAZy	Glycosyl transferases group 1	16	15
+Carbohydrate / CAZy	Bacterial transferase hexapeptide (six repeats)	4	4
+Carbohydrate / CAZy	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase	2	2
+Carbohydrate / CAZy	NAD dependent epimerase/dehydratase family	2	2
+Carbohydrate / CAZy	3-beta hydroxysteroid dehydrogenase/isomerase family	1	1
+Carbohydrate / CAZy	Alpha-L-arabinofuranosidase B, catalytic	1	1
+Carbohydrate / CAZy	Glycosyltransferase family 17	1	1
+Carbohydrate / CAZy	NAD binding domain of 6-phosphogluconate dehydrogenase	1	1
+Cofactor / vitamin / tRNA	6-pyruvoyl tetrahydropterin synthase	2	2
+Cofactor / vitamin / tRNA	GTP cyclohydrolase I	2	2
+Cofactor / vitamin / tRNA	cobS; cobaltochelatase CobS	2	2
+Cofactor / vitamin / tRNA	Pyridoxal-phosphate dependent enzyme	1	1
+Cofactor / vitamin / tRNA	cobT; cobaltochelatase CobT	1	1
+Energy & electron transp	FMN-dependent dehydrogenase	1	1
+Energy & electron transp	cytochrome bd ubiquinol oxidase subunit I	1	1
+Glycan binding / adhesion	Concanavalin A-like lectin; extracellular arabinase	24	18
+Lipid metabolism	Fatty acid desaturase	1	1
+Nucleotide metabolism	ribonucleoside-diphosphate reductase	4	4
+Nucleotide metabolism	nrdA/nrdB; ribonucleotide reductase (RNR)	3	3
+Nucleotide metabolism	Cytidylyltransferase	2	2
+Nucleotide metabolism	dCTP deaminase	2	2
+Nucleotide metabolism	dUTP pyrophosphatase	2	2
+Nucleotide metabolism	Carbamoyltransferase	1	1
+Nucleotide metabolism	Guanylate kinase	1	1
+Nucleotide metabolism	adenylosuccinate synthase	1	1
+Nucleotide metabolism	thymidylate synthase	1	1
+Phosphate / nutrient	phoH; phosphate starvation-inducible protein	5	5
+Phosphate / nutrient	phoA; alkaline phosphatase	1	1
+Photosynthesis / phycobilin	cp12, calvin cycle protein inhibitor	3	3
+Sulfotransferase	Sulfotransferase family	8	8
+Sulfotransferase	Sulfotransferase domain	3	3

@@ -1,0 +1,16 @@
+Virus,AAI to closest RaFAH reference,Host genus,Confidence score,List of methods
+k141_125134,9.78,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__PWJY01,91.40,blast;93.70 iPHoP-RF;77.10
+k141_136931,,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Leclercia,90.40,CRISPR;92.90
+k141_192778,4.42,d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Euzebyales;f__Egibacteraceae;g__PUKE01,90.10,blast;92.60
+k141_230827,26.82,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Leclercia,91.40,iPHoP-RF;93.70
+k141_252121,27.08,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum,97.30,blast;93.40 iPHoP-RF;92.40 RaFAH;85.40
+k141_407993,13.52,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1181,93.10,iPHoP-RF;95.10
+k141_42181,8.50,d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__PWTM01;f__PWTM01;g__PWTM01,91.40,blast;93.70 iPHoP-RF;60.60
+k141_434429,6.89,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium,92.20,iPHoP-RF;94.40
+k141_450561,4.01,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__P3;g__UBA1711,91.00,iPHoP-RF;93.40
+k141_489168,33.67,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum,98.10,blast;93.60 RaFAH;89.00 iPHoP-RF;70.40
+k141_541011,32.46,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983_A;f__JAACPR01;g__JAGOTN01,91.40,iPHoP-RF;93.70
+k141_620797,,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium,94.50,iPHoP-RF;96.10
+k141_620797,,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavivirga,91.00,iPHoP-RF;93.40
+k141_626607,8.97,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halohasta,93.60,blast;95.50 iPHoP-RF;70.90
+k141_673995,33.59,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__ELB16-189,91.40,iPHoP-RF;93.70

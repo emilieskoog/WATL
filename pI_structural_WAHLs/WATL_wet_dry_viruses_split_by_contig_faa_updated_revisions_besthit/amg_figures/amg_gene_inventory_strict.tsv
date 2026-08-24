@@ -1,0 +1,41 @@
+function	gene_product	n_genes	n_contigs
+2OG-Fe(II) oxygenase	2OG-Fe(II) oxygenase superfamily	3	3
+Amino-acid metabolism	Phosphoribosyl-ATP pyrophosphohydrolase	3	3
+Amino-acid metabolism	Aminotransferase class-V	1	1
+Amino-acid metabolism	Serine hydroxymethyltransferase	1	1
+Carbohydrate / CAZy	Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase	4	4
+Carbohydrate / CAZy	Bacterial transferase hexapeptide (six repeats)	2	2
+Carbohydrate / CAZy	Alpha-L-arabinofuranosidase B, catalytic	1	1
+Carbohydrate / CAZy	GALE; UDP-Glc -> UDP-Gal	1	1
+Carbohydrate / CAZy	Glycosyl transferases group 1	1	1
+Carbohydrate / CAZy	Glycosyltransferase family 17	1	1
+Carbohydrate / CAZy	NAD binding domain of 6-phosphogluconate dehydrogenase	1	1
+Carbohydrate / CAZy	NAD dependent epimerase/dehydratase family	1	1
+Cofactor / vitamin / tRNA	6-pyruvoyl tetrahydropterin synthase	4	4
+Cofactor / vitamin / tRNA	cobS; cobaltochelatase CobS	4	4
+Cofactor / vitamin / tRNA	GTP cyclohydrolase I	3	3
+Cofactor / vitamin / tRNA	Pyridoxal-phosphate dependent enzyme	2	2
+Cofactor / vitamin / tRNA	cobT; cobaltochelatase CobT	2	2
+Cofactor / vitamin / tRNA	Cobalamin biosynthesis protein CobT VWA domain	1	1
+Cofactor / vitamin / tRNA	Formyl transferase	1	1
+Cofactor / vitamin / tRNA	Phosphopantetheine attachment site	1	1
+Cofactor / vitamin / tRNA	QueF-like protein	1	1
+Cofactor / vitamin / tRNA	Queuosine biosynthesis protein QueC	1	1
+DNA methylation / RM	DNA (cytosine-5-)-methyltransferase	8	8
+Energy & electron transp	cytochrome bd ubiquinol oxidase subunit I	1	1
+Glycan binding / adhesion	Concanavalin A-like lectin; extracellular arabinase	20	14
+Lipid metabolism	Beta-ketoacyl synthase, C-terminal domain	1	1
+Nucleotide metabolism	nrdA/nrdB; ribonucleotide reductase (RNR)	9	8
+Nucleotide metabolism	ribonucleoside-diphosphate reductase	9	8
+Nucleotide metabolism	dCTP deaminase	5	5
+Nucleotide metabolism	dUTP pyrophosphatase	3	3
+Nucleotide metabolism	dTMP kinase	2	2
+Nucleotide metabolism	thymidylate synthase	2	2
+Nucleotide metabolism	Carbamoyltransferase	1	1
+Nucleotide metabolism	Cytidylyltransferase	1	1
+Nucleotide metabolism	Guanylate kinase	1	1
+Nucleotide metabolism	adenylosuccinate synthase	1	1
+Phosphate / nutrient	phoH; phosphate starvation-inducible protein	6	6
+Phosphate / nutrient	phoA; alkaline phosphatase	1	1
+Sulfotransferase	Sulfotransferase family	8	6
+Sulfotransferase	Sulfotransferase domain	3	3

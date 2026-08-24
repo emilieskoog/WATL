@@ -1,0 +1,15 @@
+function,Energy,MISC,Organic Nitrogen,unassigned
+2OG-Fe(II) oxygenase,0,0,0,44
+Amino-acid metabolism,0,0,0,11
+Carbohydrate / CAZy,0,1,0,84
+Cofactor / vitamin / tRNA,0,8,0,29
+DNA methylation / RM,0,0,18,0
+Energy & electron transp,1,0,0,2
+Glycan binding / adhesion,0,0,0,51
+Lipid metabolism,0,0,0,4
+Nucleotide metabolism,0,37,0,30
+Other / unclassified,0,1,3,0
+Phosphate / nutrient,0,0,0,24
+Photosynthesis / phycobilin,1,0,0,6
+Polyamine,0,0,0,4
+Sulfotransferase,0,0,0,23

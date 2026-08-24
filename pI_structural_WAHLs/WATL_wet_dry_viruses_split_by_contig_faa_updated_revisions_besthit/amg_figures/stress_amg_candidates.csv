@@ -1,0 +1,29 @@
+gene_id,scaffold,amg_flags,gene_description,stress_class,survives_cutoff
+PF02675,WATLvirus_00273463-cat_1,MKF,speD; S-adenosylmethionine decarboxylase,Osmotic / salinity,False
+PF02675,WATLvirus_00316014-cat_1,MKF,speD; S-adenosylmethionine decarboxylase,Osmotic / salinity,False
+PF02675,WATLvirus_00318998-cat_1,MKF,speD; S-adenosylmethionine decarboxylase,Osmotic / salinity,False
+PF02675,WATLvirus_00325951-cat_1,MKF,speD; S-adenosylmethionine decarboxylase,Osmotic / salinity,False
+PF02562,WATLvirus_00020005-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00060891-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+EC:3.1.3.1,WATLvirus_00194355-cat_1,MKEF,phoA; alkaline phosphatase,Phosphate starvation,False
+PF02562,WATLvirus_00228925-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00244396-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00272353-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00272529-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00298262-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00308153-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00308542-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00309137-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00309294-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00310591-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00311696-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00315927-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00317129-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00320094-cat_1,MKF,phoH; phosphate starvation-inducible protein,Phosphate starvation,False
+PF02562,WATLvirus_00045926-cat_1,MK,phoH; phosphate starvation-inducible protein,Phosphate starvation,True
+PF02562,WATLvirus_00114208-cat_1,MK,phoH; phosphate starvation-inducible protein,Phosphate starvation,True
+PF02562,WATLvirus_00209936-cat_1,MK,phoH; phosphate starvation-inducible protein,Phosphate starvation,True
+PF02562,WATLvirus_00228938-cat_1,MK,phoH; phosphate starvation-inducible protein,Phosphate starvation,True
+PF02562,WATLvirus_00244322-cat_1,MK,phoH; phosphate starvation-inducible protein,Phosphate starvation,True
+PF02562,WATLvirus_00305836-cat_1,MK,phoH; phosphate starvation-inducible protein,Phosphate starvation,True
+EC:3.1.3.1,WATLvirus_00306907-cat_1,MKE,phoA; alkaline phosphatase,Phosphate starvation,True

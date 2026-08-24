@@ -1,0 +1,26 @@
+Virus,Host genome,Host taxonomy,Main method,Confidence score,Additional methods
+k141_106629,3300027784_96,d__Archaea;p__Halobacteriota;c__Methanonatronarchaeia;o__Methanonatronarchaeales;f__Methanonatronarchaeaceae;g__;s__,blast,94.40,iPHoP-RF;72.20
+k141_111190,GB_GCA_902779845.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp902779845,iPHoP-RF,95.70,None
+k141_111190,MGYG000291486,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__,iPHoP-RF,95.40,None
+k141_111190,GB_GCA_902783885.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp902783885,iPHoP-RF,93.70,None
+k141_111190,GB_GCA_017429945.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp017429945,iPHoP-RF,93.40,None
+k141_111190,GB_GCA_905233765.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp905233765,iPHoP-RF,93.40,None
+k141_111190,GB_GCA_900316355.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp900316355,iPHoP-RF,92.40,None
+k141_111190,GB_GCA_902771725.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__UBA4372 sp902771725,iPHoP-RF,90.10,None
+k141_111190,MGYG000291907,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__UBA4372;s__,iPHoP-RF,90.10,None
+k141_115842,GB_GCA_003552585.1,d__Archaea;p__Thermoplasmatota;c__Thermoplasmata;o__PWKY01;f__PWKY01;g__PUNK01;s__PUNK01 sp003552585,blast,91.70,iPHoP-RF;78.30
+k141_119174,GB_GCA_944355355.1,d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__Ventrenecus;s__Ventrenecus sp944355355,iPHoP-RF,92.40,None
+k141_12956,3300027784_96,d__Archaea;p__Halobacteriota;c__Methanonatronarchaeia;o__Methanonatronarchaeales;f__Methanonatronarchaeaceae;g__;s__,blast,93.60,iPHoP-RF;65.80
+k141_28083,RS_GCF_000222585.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio scophthalmi,iPHoP-RF,94.70,None
+k141_28083,RS_GCF_021728395.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio sp018223135,iPHoP-RF,93.70,None
+k141_28083,RS_GCF_000176135.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio coralliilyticus,iPHoP-RF,93.40,None
+k141_28083,RS_GCF_013113835.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio sp013113835,iPHoP-RF,93.40,None
+k141_28083,RS_GCF_000417905.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio natriegens,iPHoP-RF,93.10,None
+k141_28083,RS_GCF_019226825.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio sp004804295,iPHoP-RF,92.80,None
+k141_28083,GB_GCA_018222805.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio sp018222805,iPHoP-RF,92.40,None
+k141_28083,RS_GCF_900460245.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio fluvialis,iPHoP-RF,91.80,None
+k141_28083,RS_GCF_000967495.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Vibrionaceae;g__Vibrio;s__Vibrio neptunius,iPHoP-RF,91.10,None
+k141_3231,3300027784_96,d__Archaea;p__Halobacteriota;c__Methanonatronarchaeia;o__Methanonatronarchaeales;f__Methanonatronarchaeaceae;g__;s__,blast,93.00,iPHoP-RF;68.40
+k141_60824,RS_GCF_003957375.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus_B;s__Enterococcus_B mundtii_C,iPHoP-RF,91.80,None
+k141_60824,RS_GCF_002813755.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus_B;s__Enterococcus_B mundtii,iPHoP-RF,91.10,None
+k141_60824,RS_GCF_002947535.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Enterococcaceae;g__Enterococcus_B;s__Enterococcus_B mundtii_B,iPHoP-RF,91.10,None

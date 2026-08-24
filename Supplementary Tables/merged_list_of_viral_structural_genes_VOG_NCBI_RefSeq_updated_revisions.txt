@@ -1,0 +1,1261 @@
+Structural_viral_gene
+AB1gp04
+AB1gp13
+AB1gp38
+AB1gp44
+AB1gp73
+AB1gp80
+AB1gp81
+AB1gp83
+AB1gp84
+bacteriophage major capsid protein; Lambda gpE homolog
+bacteriophage portal protein
+bacteriophage portal protein; Lambda gpB homolog
+bacteriophage side tail fiber protein; Lambda gpSft (gpN) homolog
+bacteriophage side tail fiber protein; Lambda gpStf (gpN) homolog
+bacteriophage tail fiber (host specificity) protein; Lambda gp J homolog
+base plate family protein
+base plate hub subunit
+base plate hub subunit protein
+base plate protein
+base plate protein Gp5
+base plate wedge component
+base plate wedge subunit
+baseplate
+baseplate central spike complex protein
+baseplate component
+baseplate hub
+baseplate hub protein
+baseplate hub subunit
+baseplate J
+baseplate J family protein
+baseplate J like family protein
+baseplate j protein
+baseplate J protein
+baseplate J-like protein
+Baseplate J-like protein
+baseplate J/gp47 family protein
+baseplate P2 J-like protein
+baseplate protein
+baseplate protein J
+baseplate related protein
+baseplate spike
+baseplate structural protein
+baseplate subunit
+baseplate tail tube cap
+baseplate wedge
+baseplate wedge component
+baseplate wedge component gp53
+baseplate wedge protein
+baseplate wedge subunit
+baseplate wedge subunit (baseplate J superfamily)
+baseplate wedge subunit and tail pin
+baseplate wedge tail fiber connector
+baseplate wedge tail fiber protein connector
+capsid
+Capsid
+capsid and scaffold
+capsid and scaffold protein
+capsid completion protein
+capsid component
+capsid decoration protein
+capsid family protein
+capsid portal protein
+capsid protein
+Capsid protein
+capsid protein (endogenous virus)
+capsid protein 1
+capsid protein 3
+capsid protein 4
+capsid protein D13l
+capsid protein gpB
+capsid protein gpD
+Capsid protein Vp54
+capsid protein with RING finger 1 domain
+capsid vertex
+capsid vertex protein
+capsid vertex protein I
+capsid vertex protein II
+capsid-related protein
+central tail fiber J
+central tail hub
+conserved major capsid protein
+distal tail protein
+distal tail protein Dit
+divergent major capsid protein
+Divergent Major Capsid Protein
+envelope glycoprotein C
+gene 34 protein
+glycoprotein
+glycoprotein 3
+gp12, major tail protein
+gp13 neck protein
+Gp13 neck protein
+gp14 neck protein
+gp15 tail sheath stabilizer and completion protein
+gp18 tail sheath protein
+Gp18 tail sheath protein
+gp19 tail tube monomer
+gp19 tail tube monomer protein
+gp19 tail tube protein
+Gp19 tail tube protein
+gp19 tail tube protein II
+gp2, phage major capsid protein, P2 family
+gp20 portal vertex protein
+gp20 portal vertex protein of head
+gp23 major capsid protein
+gp23 major head protein
+Gp23 major head protein
+gp23 major head protein II
+Gp23-Major capsid protein
+gp24
+gp24 capsid vertex protein
+gp24 head vertex protein
+gp24 precursor of head vertex subunit
+gp25
+gp25 base plate wedge subunit
+gp26
+gp26 base plate hub subunit
+Gp26 base plate hub subunit
+gp26 baseplate hub subunit
+gp3
+gp3 head-proximal tip of tail protein
+gp3 head-proximal tip of tail tube
+gp3 tail completion and sheath stabilizer
+gp3 tail completion and sheath stabilizer protein
+Gp3 tail completion and sheath stabilizer protein
+Gp3-tail completion
+gp33, phage tail sheath protein
+gp4
+gp4 head completion protein
+Gp4 head completion protein
+gp48
+gp48 baseplate tail tube cap
+gp5
+gp5 baseplate hub subunit and tail lysozyme
+gp53
+gp53 baseplate wedge subunit
+Gp53 baseplate wedge subunit
+Gp6 (endogenous virus)
+gp6 baseplate wedge subunit
+Gp6 baseplate wedge subunit
+gp6, major capsid head protein
+gp6, major capsid protein
+gp77 putative tail-fiber protein
+Gpu-like tail protein
+head closure
+head closure Hc1
+head closure Hc1 (endogenous virus)
+head closure Hc2
+head closure Hc3
+head closure protein
+head closure protein, type 1
+head completion
+head completion protein
+head completion-stabilization protein
+head completion, neck hetero-dimeric protein
+head completion/stabilization protein
+head connector protein Hco
+head decoration
+head decoration (endogenous virus)
+head decoration protein
+head decoration protein D
+head fiber protein
+head portal vertex protein
+head protein
+head protein, partial
+head tail adaptor
+head tail attachment
+head to tail connecting protein
+head to tail connector
+head to tail connector protein
+head vertex protein
+Head vertex protein
+head vertex protein I
+head vertex protein II
+head vertex subunit precursor
+head-closure protein
+head-proximal tip of tail protein
+head-proximal tip of tail tube
+head-proximal tip of tail tube completion + sheath stabilizer protein
+head-proximal tip of tail tube tail completion + sheath stabilizer protein
+head-to-tail adaptor
+head-to-tail complex protein
+head-to-tail joining protein
+HK97 gp10-like/Mu G-like tail completion protein
+HK97 gp5-like major capsid protein
+J-like tail tip protein
+large major capsid protein
+long tail fiber
+long tail fiber protein distal subunit
+long tail fiber proximal subunit
+long tail fiber, distal subunit
+MAG: baseplate hub
+MAG: baseplate hub & tail lysozyme
+MAG: baseplate spike
+MAG: baseplate wedge subunit
+MAG: major head protein (endogenous virus)
+MAG: minor head protein
+MAG: portal protein
+MAG: tail completion or Neck1 protein
+MAG: tail fiber protein
+MAG: tail length tape measure protein (endogenous virus)
+MAG: tail protein
+MAG: tail sheath
+MAG: virion structural protein
+mail baseplate wedge protein
+main capsid protein
+major capsid
+major capsid hexamer protein
+major capsid protein
+major capsid Protein
+Major capsid protein
+Major Capsid Protein
+major capsid protein (endogenous virus)
+major capsid protein 1
+major capsid protein 2
+major capsid protein E
+major capsid protein MCP
+major capsid protein MCP2
+major capsid protein N
+major capsid protein PB2
+major capsid protein PB7
+major capsid protein precursor
+major capsid protein VP54
+Major capsid protein Vp54
+Major capsid protein VP54
+major capsid protein-like protein
+major capsid protein, HK97 family
+major capsid protein, P2 family
+major capsid proten
+major capsid subunit
+major capsid subunit gp9
+major capsid-like protein
+major coat protein
+major head precursor
+major head protein
+major head protein (endogenous virus)
+major head protein II
+major head protein precursor
+major head protein, partial
+major head subunit precursor
+major head subunit protein
+major head/capsid protein
+major hed protein
+major spike protein
+major structural phage protein
+major structural protein
+major tail protein
+major tail protein (endogenous virus)
+major tail protein V
+major tail protein with Ig-like domain
+major tail protein, TP901-1 family
+major tail sheath
+major tail sheath protein
+Major tail sheath protein
+Major tail sheath protein FI
+major tail structrual protein
+major tail structural protein
+major tail subunit
+major tail tube
+major tail tube protein
+minor capsid protein
+minor capsid protein 10
+minor capsid protein E
+minor coat protein
+minor head protein
+minor head protein (endogenous virus)
+minor head protein-like protein
+minor structural protein
+minor tail protein
+minor tail protein (endogenous virus)
+minor tail protein L
+minor tail protein Z-like protein
+minor tail protein, partial
+minor tail subunit
+N4-gp56 family major capsid protein
+P2 gpD-like tail protein
+P2 gpE-like tail protein
+P2 gpN-like major capsid protein
+P2 gpR-like tail completion protein
+P2 gpS-like tail completion protein
+P2 gpT-like tail protein
+P2 gpU-like tail protein
+P2 gpV-like protein
+P2 gpW-like baseplate protein
+P2 gpW-like protein
+P2 gpX-like tail protein
+P2 phage tail completion protein R (GpR)
+p22 coat protein
+P22 coat protein
+p41 capsid protein
+phage baseplate wedge subunit
+phage baseplate wedge subunit Gp6
+Phage capsid and scaffold
+phage capsid and scaffold protein
+phage capsid protein
+phage capsid vertex
+Phage capsid vertex
+phage coat protein gp6
+Phage collar/head-to-tail joining protein
+Phage head completion protein
+Phage head completion protein (GPL)
+phage head-tail joining protein
+phage major capsid protein
+Phage major capsid protein
+phage major capsid protein, HK97 family
+Phage major capsid protein, P2 family
+phage major head protein/major capsid protein
+phage major tail protein
+Phage major tail sheath protein
+Phage Major Tail tube protein
+phage minor head protein
+Phage minor tail protein
+Phage Minor tail protein
+Phage Ne1 neck protein
+phage neck protein Gp13
+phage portal protein
+Phage portal protein
+phage portal protein, HK97 family
+phage structural protein
+phage tail collar domain-containing protein
+phage tail completion protein
+Phage tail completion protein
+phage tail fiber protein
+Phage tail fiber protein
+Phage tail fiber repeat protein
+phage tail fiber-like protein
+Phage tail fibers
+phage tail length tape-measure protein
+Phage tail length tape-measure protein 1
+phage tail protein
+Phage tail protein (Tail_P2_I)
+Phage tail protein E
+Phage Tail Protein X
+Phage tail sheath monomer
+phage tail sheath protein
+Phage tail sheath protein
+phage tail sheath protein FI
+phage tail tube protein
+Phage tail tube protein FII
+phage tail-related protein
+phage tape measure protein
+Phage Tape measure protein
+Phage-related baseplate assembly protein
+Phage-related minor tail protein
+phate tail tape measure protein
+prophage tail protein
+protail fiber N-terminal domain-containing protein
+proximal tail sheath
+sheath protein
+sheath stabilizer protein
+short tail fiber protein
+siphovirus Gp157 family protein
+spike protein
+straight fibre tail protein
+structral protein
+structural component of the tail fiber
+structural phage protein
+structural protein
+structural protein (endogenous virus)
+structural protein of head
+structural protein p72
+Structural protein p72
+structural protein VP4
+structural protein with Ig domain
+structural protein, partial
+structural protein/portal protein
+structural, host-like protein
+strucutral protein
+strucutural protein
+Strucutural protein, N4 gp52-like protein
+T4-like baseplate tail tube cap
+T4-like head completion protein
+T4-like phage head completion, neckhetero-dimeric protein
+T4-like tail tube protein
+Tai fiber
+tail accessory factor
+tail appendage
+tail baseplate protein
+tail collar fiber protein
+tail collar protein
+tail completion and sheath stabilizer protein
+Tail completion and sheath stabilizer protein
+tail completion or Neck1 protein
+tail completion or Neck1 protein (endogenous virus)
+tail completion protein
+tail completion protein 1
+tail completion protein Tc1
+tail completion protein, type 1
+tail completion R family protein
+tail completrion and sheath stabiliser
+tail component
+tail component protein
+tail component Z
+tail family protein
+tail fiber
+tail fiber adhesin
+tail fiber domain-containing protein
+tail fiber protein
+Tail fiber protein
+tail fiber protein (endogenous virus)
+tail fiber protein and host specificity
+tail fiber protein, partial
+tail fiber protein; host specificity
+tail fiber protein; Ig-domain containing
+tail fibers
+tail fibers protein
+tail fibre assembly protein
+tail hub A
+tail protein
+tail protein (endogenous virus)
+tail protein / putative RBP
+tail protein A
+tail protein and host specificity
+tail protein and host specificity, partial
+tail protein B
+tail protein I
+tail protein Pb3
+tail protein T
+tail protein with endopeptidase domain
+tail protein with lysin activity
+tail protein, partial
+tail sheath
+tail sheath and receptor binding protein
+tail sheath family protein
+tail sheath protein
+tail sheath protein FI
+tail spike protein
+tail spike protein (endogenous virus)
+tail spike protein with colonic acid degradation activity
+tail subunit
+tail synthesis protein S
+tail tape measure
+tail tape measure domain protein
+tail tape measure protein
+tail tape measure protein (endogenous virus)
+tail tape measure protein-like protein
+tail tape-measure protein
+tail tapemeasure protein
+tail terminator
+tail terminator protein
+tail terminator protein (endogenous virus)
+tail terminator, partial
+tail tip complex protein
+tail tip host specificity protein J
+tail tip protein
+tail tip protein Tal
+tail to head joining protein
+tail tube
+tail tube A
+tail tube gp3 head-proximal tip protein
+tail tube monomer
+tail tube monomer protein
+tail tube protein
+tail tube protein A
+tail tube-associated base plate wedge protein
+tail tube-like protein
+tail tubular A protein
+tail tubular B
+tail tubular B protein
+tail tubular protein
+tail tubular protein A
+tail tubular protein B
+tail tubular protein B (endogenous virus)
+tail-collar fiber protein
+tail-like protein
+tailspike
+tailspike 63D sialidase
+tailspike protein
+Tc1 Phage tail completion protein
+til tube protein
+tip attachment protein
+viral structural protein
+viral structural protein VP13
+virion structural component
+virion structural protein
+Virion structural protein
+virion structural protein (endogenous virus)
+virion structural protein and packaging
+virion structural protein, partial
+virion-associated head protein
+VP1
+VP1 spike protein
+VP11 protein
+VP2
+VP2 precursor
+VP3
+VP4
+VP4 precursor
+VP5 precursor
+VP8
+major head protein
+ AB1gp04 
+ AB1gp13 
+ AB1gp38 
+ AB1gp44 
+ AB1gp73 
+ AB1gp80 
+ AB1gp81 
+ AB1gp83 
+ AB1gp84 
+ bacteriophage host specificity protein; tail fiber; Lambda gpJ homolog 
+ bacteriophage major capsid protein; Lambda gpE homolog 
+ bacteriophage portal protein 
+ bacteriophage side tail fiber assembly factor & structural component; Lambda gpTfa homolog 
+ bacteriophage side tail fiber protein; Lambda gpSft (gpN) homolog 
+ bacteriophage side tail fiber protein; Lambda gpStf (gpN) homolog 
+ bacteriophage tail fiber (host specificity) protein; Lambda gp J homolog 
+ bacteriophage tail tip assembly protein; Lambda gpI homolog 
+ bacteriophage tail tip assembly protein; Lambda gpK homolog 
+ bacteriophage tail tip assembly protein; Lambda gpL homolog 
+ bacteriophage tail tip assembly protein; Lambda gpM homolog 
+ baseplate 
+ baseplate central spike complex protein 
+ baseplate component 
+ base plate family protein 
+ baseplate hub 
+ baseplate hub and tail lysozyme 
+ baseplate hub protein 
+ base plate hub subunit 
+ baseplate hub subunit 
+ baseplate hub subunit and phage tail lysozyme 
+ baseplate hub subunit and tail lysozyme 
+ baseplate hub subunit and tail lysozyme protein 
+ base plate hub subunit protein 
+ baseplate hub & tail lysozyme 
+ baseplate hub + tail lysozyme 
+ baseplate J 
+ baseplate J family protein 
+ baseplate J/gp47 family protein 
+ baseplate J like family protein 
+ baseplate J-like protein 
+ Baseplate J-like protein 
+ baseplate j protein 
+ baseplate J protein 
+ baseplate P2 J-like protein 
+ base plate protein 
+ baseplate protein 
+ base plate protein Gp5 
+ baseplate protein J 
+ baseplate protein/ putative tail lysozyme 
+ baseplate related protein 
+ baseplate spike 
+ baseplate structural protein 
+ baseplate subunit 
+ baseplate tail tube cap 
+ baseplate V-like protein 
+ baseplate wedge 
+ base plate wedge component 
+ baseplate wedge component 
+ baseplate wedge component gp53 
+ baseplate wedge protein 
+ base plate wedge subunit 
+ baseplate wedge subunit 
+ baseplate wedge subunit and tail pin 
+ baseplate wedge subunit (baseplate J superfamily) 
+ baseplate wedge tail fiber connector 
+ baseplate wedge tail fiber protein connector 
+ capsid 
+ Capsid 
+ capsid and scaffold 
+ capsid and scaffold protein 
+ capsid completion protein 
+ capsid component 
+ capsid decoration protein 
+ capsid family protein 
+ capsid portal protein 
+ capsid protein 
+ Capsid protein 
+ capsid protein 1 
+ capsid protein 3 
+ capsid protein 4 
+ capsid protein D13l 
+ capsid protein (endogenous virus) 
+ capsid protein gpB 
+ capsid protein gpD 
+ Capsid protein Vp54 
+ capsid protein with RING finger 1 domain 
+ capsid related protein 
+ capsid-related protein 
+ capsid stabilization protein 
+ capsid stabilizing protein 
+ capsid vertex 
+ capsid vertex protein 
+ capsid vertex protein I 
+ capsid vertex protein II 
+ CDS=NP_040583.1 portal protein 
+ CDS=NP_047927.1 major head protein 
+ CDS=YP_001468466.1 major head protein 
+ CDS=YP_001468473.1 tail sheath 
+ CDS=YP_002791889.1 VP4 
+ CDS=YP_003411998.1 VP4 
+ CDS=YP_009012475.1 tail spike protein 
+ CDS=YP_424959.1 tail fiber protein 
+ central tail fiber J 
+ central tail hub 
+ coat protein 
+ coat protein capsid protein 
+ coat protein of 41 kDa 
+ coat protein (p48) 
+ collagen like minor tail 
+ collagen-like protein 
+ Collagen-like protein 
+ collagen-like protein 1 
+ collagen-like protein 2 
+ collagen-like protein 3 
+ collagen-like protein 4 
+ collagen-like protein 6 
+ collagen-like protein 7 
+ collagen-like protein with C1q domain 
+ Collagen protein 
+ collagen repeat protein 
+ collar 
+ collar domain containing protein/baseplate wedge protein 
+ collar / head-to-tail joining protein 
+ collar/head to tail joining protein 
+ collar/head-to-tail joining protein 
+ collar protein 
+ collar tail protein for L-shaped tail fibre attachment 
+ conserved major capsid protein 
+ contractile injection system tube protein 
+ distal tail protein 
+ distal tail protein Dit 
+ divergent major capsid protein 
+ Divergent Major Capsid Protein 
+ envelope glycoprotein C 
+ gene 34 protein 
+ gene transfer agent tail tape measure 
+ glycoprotein 
+ glycoprotein 3 
+ glycoprotein repeat domain-containing, virus tail fiber 
+ gp10 
+ gp10, phage protein, HK97 gp10 family 
+ gp10 protein 
+ gp12, major tail protein 
+ gp13 neck protein 
+ Gp13 neck protein 
+ gp14 neck protein 
+ gp15 tail sheath stabilizer and completion protein 
+ gp18 tail sheath protein 
+ Gp18 tail sheath protein 
+ gp19 tail tube monomer 
+ gp19 tail tube monomer protein 
+ gp19 tail tube protein 
+ Gp19 tail tube protein 
+ gp19 tail tube protein II 
+ gp20 portal vertex protein 
+ gp20 portal vertex protein of head 
+ gp23 
+ gp23 major capsid protein 
+ Gp23-Major capsid protein 
+ gp23 major head protein 
+ Gp23 major head protein 
+ gp23 major head protein II 
+ gp24 
+ gp24 capsid vertex protein 
+ gp24 head vertex protein 
+ gp24 precursor of head vertex subunit 
+ gp25 
+ gp25 base plate wedge subunit 
+ gp26 
+ gp26 base plate hub subunit 
+ gp26 baseplate hub subunit 
+ Gp26 base plate hub subunit 
+ gp2, phage major capsid protein, P2 family 
+ gp3 
+ gp33, phage tail sheath protein 
+ gp3 head-proximal tip of tail protein 
+ gp3 head-proximal tip of tail tube 
+ Gp3-tail completion 
+ gp3 tail completion and sheath stabilizer 
+ gp3 tail completion and sheath stabilizer protein 
+ Gp3 tail completion and sheath stabilizer protein 
+ gp4 
+ gp48 
+ gp48 baseplate tail tube cap 
+ gp4 head completion protein 
+ Gp4 head completion protein 
+ gp5 
+ gp53 
+ gp53 baseplate wedge subunit 
+ Gp53 baseplate wedge subunit 
+ gp5 baseplate hub subunit and tail lysozyme 
+ Gp6 
+ gp6 baseplate wedge subunit 
+ Gp6 baseplate wedge subunit 
+ Gp6 (endogenous virus) 
+ Gp6-like protein 
+ gp6, major capsid head protein 
+ gp6, major capsid protein 
+ gp77 
+ gp77 putative tail-fiber protein 
+ Gpu-like tail protein 
+ head closure 
+ head closure Hc1 
+ head closure Hc1 (endogenous virus) 
+ head closure Hc2 
+ head closure Hc3 
+ head closure protein 
+ head-closure protein 
+ head closure protein, type 1 
+ head completion 
+ head completion, neck hetero-dimeric protein 
+ head completion protein 
+ head completion-stabilization protein 
+ head completion/stabilization protein 
+ head connector protein Hco 
+ head decoration 
+ head decoration (endogenous virus) 
+ head decoration protein 
+ head decoration protein D 
+ head fiber protein 
+ head portal vertex protein 
+ head protein 
+ head protein, partial 
+ head-proximal tip of tail protein 
+ head-proximal tip of tail tube 
+ head-proximal tip of tail tube completion + sheath stabilizer protein 
+ head-proximal tip of tail tube tail completion + sheath stabilizer protein 
+ head tail attachment 
+ head-to-tail adaptor 
+ head-to-tail complex protein 
+ head to tail connecting protein 
+ head to tail connector 
+ head-to-tail connector 
+ head-to-tail connector complex protein 
+ head-to-tail connector (portal) 
+ head-to-tail joining protein 
+ head vertex protein 
+ Head vertex protein 
+ head vertex protein I 
+ head vertex protein II 
+ head vertex subunit precursor 
+ HK97 gp10 familygprotein 
+ HK97 gp10 family protein 
+ HK97 gp10-like/Mu G-like tail completion protein 
+ HK97 gp5-like major capsid protein 
+ host specificity factor TipJ family tail protein 
+ J-like tail tip protein 
+ large major capsid protein 
+ lateral tail fiber protein 
+ long tail fiber 
+ long tail fiber, distal subunit 
+ long tail fiber protein distal subunit 
+ long tail fiber proximal subunit 
+ lytic tail fiber protein 
+ lytic tail protein 
+ MAG: baseplate hub 
+ MAG: baseplate hub & tail lysozyme 
+ MAG: baseplate spike 
+ MAG: baseplate wedge subunit 
+ MAG: major head protein (endogenous virus) 
+ MAG: minor head protein 
+ MAG: portal protein 
+ MAG: tail completion or Neck1 protein 
+ MAG: tail fiber protein 
+ MAG: tail length tape measure protein (endogenous virus) 
+ MAG: tail protein 
+ MAG: tail sheath 
+ MAG: virion structural protein 
+ mail baseplate wedge protein 
+ main capsid protein 
+ major capsid 
+ major capsid hexamer protein 
+ major capsid-like protein 
+ major capsid protein 
+ major capsid Protein 
+ Major capsid protein 
+ Major Capsid Protein 
+ major capsid protein 1 
+ major capsid protein 2 
+ major capsid protein E 
+ major capsid protein (endogenous virus) 
+ major capsid protein, HK97 family 
+ major capsid protein-like protein 
+ major capsid protein MCP 
+ major capsid protein MCP2 
+ major capsid protein N 
+ major capsid protein, P2 family 
+ major capsid protein PB2 
+ major capsid protein PB7 
+ major capsid protein precursor 
+ major capsid protein VP54 
+ Major capsid protein Vp54 
+ Major capsid protein VP54 
+ major capsid proten 
+ major capsid subunit 
+ major capsid subunit gp9 
+ major coat protein 
+ major head/capsid protein 
+ major head precursor 
+ major head protein 
+ major head protein (endogenous virus) 
+ major head protein II 
+ major head protein, partial 
+ major head protein precursor 
+ major head subunit precursor 
+ major head subunit protein 
+ major hed protein 
+ major spike protein 
+ major structural phage protein 
+ major structural protein 
+ major tail protein 
+ major tail protein (endogenous virus) 
+ major tail protein, TP901-1 family 
+ major tail protein V 
+ major tail protein with Ig-like domain 
+ major tail sheath 
+ major tail sheath protein 
+ Major tail sheath protein 
+ Major tail sheath protein FI 
+ major tail structrual protein 
+ major tail structural protein 
+ major tail subunit 
+ major tail tube 
+ major tail tube protein 
+ minor capsid protein 
+ minor capsid protein 10 
+ minor capsid protein E 
+ minor coat protein 
+ minor head protein 
+ minor head protein (endogenous virus) 
+ minor head protein-like protein 
+ minor structural protein 
+ minor tail protein 
+ minor tail protein (endogenous virus) 
+ minor tail protein L 
+ minor tail protein, partial 
+ minor tail protein Z-like protein 
+ minor tail subunit 
+ N4-gp56 family major capsid protein 
+ NCLDV major capsid protein 
+ Ne1 neck protein 
+ neck and head completion 
+ neck passage structure 
+ neck protein 
+ neck protein 1 
+ neck protein 2 
+ non-contractile tail sheath 
+ p22 coat protein 
+ P22 coat protein 
+ P2 gpD-like tail protein 
+ P2 gpE-like protein 
+ P2 gpE-like tail protein 
+ P2 gpJ-like protein 
+ P2 gpN-like major capsid protein 
+ P2 gpR-like tail completion protein 
+ P2 gpS-like tail completion protein 
+ P2 gpT-like tail protein 
+ P2 gpU-like tail protein 
+ P2 gpV-like protein 
+ P2 gpW-like baseplate protein 
+ P2 gpW-like protein 
+ P2 gpX-like tail protein 
+ P2 phage tail completion protein R (GpR) 
+ p41 capsid protein 
+ phage baseplate wedge subunit 
+ phage baseplate wedge subunit Gp6 
+ Phage capsid and scaffold 
+ phage capsid and scaffold protein 
+ phage capsid protein 
+ phage capsid vertex 
+ Phage capsid vertex 
+ phage coat protein gp6 
+ Phage collar/head-to-tail joining protein 
+ Phage head completion protein 
+ Phage head completion protein (GPL) 
+ phage head-tail joining protein 
+ phage HK97 gp10-like protein 
+ phage major capsid protein 
+ Phage major capsid protein 
+ phage major capsid protein, HK97 family 
+ Phage major capsid protein, P2 family 
+ phage major head protein/major capsid protein 
+ phage major tail protein 
+ Phage major tail sheath protein 
+ Phage Major Tail tube protein 
+ phage minor head protein 
+ Phage minor tail protein 
+ Phage Minor tail protein 
+ Phage Ne1 neck protein 
+ phage neck protein Gp13 
+ phage portal protein 
+ Phage portal protein 
+ phage portal protein, HK97 family 
+ Phage-related baseplate assembly protein 
+ Phage-related minor tail protein 
+ phage structural protein 
+ phage tail collar domain-containing protein 
+ phage tail completion protein 
+ Phage tail completion protein 
+ phage tail fiber-like protein 
+ phage tail fiber protein 
+ Phage tail fiber protein 
+ Phage tail fiber repeat protein 
+ Phage tail fibers 
+ phage tail protein 
+ Phage tail protein E 
+ Phage tail protein (Tail_P2_I) 
+ Phage Tail Protein X 
+ phage tail-related protein 
+ Phage tail sheath monomer 
+ phage tail sheath protein 
+ Phage tail sheath protein 
+ phage tail sheath protein FI 
+ phage tail tape measure protein 
+ phage tail tube protein 
+ Phage tail tube protein FII 
+ phage tape measure protein 
+ Phage Tape measure protein 
+ phate tail tape measure protein 
+ portal 
+ portal and MuF-like fusion protein 
+ portal capsid protein Q (GpQ) 
+ portal (connector) protein 
+ portal protein 
+ Portal protein 
+ portal protein and MuF-like fusion protein 
+ portal protein p19 
+ portal protein, PBSX family 
+ portal vertex 
+ portal vertex of the head 
+ portal vertex protein 
+ portal vertex protein of head 
+ portal vertex protein of the head 
+ Possible phage major capsid protein 
+ possible phage minor tail protein 
+ possible phage tail protein 
+ precursor of head vertex subunit 
+ precursor of major head subunit 
+ predicted phage tail tubular protein A 
+ predicted phage tail tubular protein B 
+ pre-neck appendage protein 
+ probable capsid protein 2 
+ probable capsid protein 3 
+ probable capsid protein 4 
+ prophage tail protein 
+ protail fiber N-terminal domain-containing protein 
+ proximal tail sheath 
+ proximal tail sheath stabilization 
+ proximal tail sheath stabilization protein 
+ Proximal tail sheath stabilization protein 
+ putative bacteriophage minor tail protein; Lambda gpL homolog 
+ putative bacteriophage minor tail protein; Lambda gpM homolog 
+ putative bacteriophage portal protein 
+ putative bacteriophage tail assembly protein I; Lambda gpI homolog 
+ putative bacteriophage tail assembly protein; Lambda gpK homolog 
+ putative bacteriophage tail fiber protein; Lambda gpN homolog 
+ putative bacteriophage tail tape measure protein; Lambda gpH homolog 
+ putative baseplate 
+ putative baseplate assembly protein 
+ putative baseplate central spike complex protein 
+ putative baseplate component 
+ putative baseplate hub 
+ putative baseplate hub and lysozyme 
+ putative baseplate hub and tail lysozyme 
+ putative baseplate hub protein 
+ putative baseplate hub subunit 
+ putative baseplate hub sub unit and tail lysozyme 
+ putative baseplate hub subunit and tail lysozyme 
+ putative baseplate hub subunit and tail lysozyme (T4-gp05-like) 
+ putative baseplate hub subunit gp26 
+ putative baseplate J family protein 
+ putative baseplate J-like protein 
+ putative baseplate J protein 
+ putative baseplate lysozyme-like protein 
+ putative baseplate protein 
+ putative baseplate protein/tail-associated lysozyme 
+ putative baseplate protein W 
+ putative baseplate puncturing device 
+ putative baseplate related protein 
+ putative baseplate structural protein 
+ putative baseplate tail tube cap 
+ putative baseplate tube cap (T4 gp48-like) 
+ putative baseplate wedge 
+ putative base plate wedge component 
+ putative base plate wedge protein 
+ putative baseplate wedge protein 
+ putative base plate wedge subunit 
+ putative baseplate wedge subunit 
+ putative baseplate wedge subunit gp6 
+ putative base plate wedge subunit protein 
+ putative baseplate wedget subunit protein 
+ putative capsid and scaffold 
+ putative capsid and scaffold protein 
+ putative capsid protein 
+ putative capsid protein 2 
+ putative capsid protein 3 
+ putative capsid protein 4 
+ putative capsid scaffold protein 
+ putative capsid structural protein 
+ putative head completion protein 
+ putative head completion protein gp4 
+ putative head portal protein 
+ putative head protein 
+ putative head proximal tip of tail tube protein 
+ putative head-proximal tip of tail tube tail completion + sheath stabilizer protein 
+ putative head structural protein 
+ putative head-tail adapter protein 
+ putative head tail adaptor 
+ putative head-tail adaptor 
+ putative head-tail adaptor protein 
+ putative head - tail connector 
+ putative head tail connector protein 
+ putative head-tail connector protein 
+ putative head-tail joining protein 
+ putative head-tail protein 
+ putative head to tail connecting protein 
+ putative head-to-tail joining protein 
+ Putative head vertex protein 
+ putative lambda gpD-like head decoration protein 
+ putative major capsid protein 
+ putative major capsid protein gp23 
+ putative major capsid protein MCP2 
+ putative major capsid protein (T4 gp23-like) 
+ putative major coat protein 
+ putative major head capsid protein 
+ putative major head protein 
+ putative major head protein II 
+ putative major tail protein 
+ putative major tail sheath 
+ putative major tail sheath protein 
+ putative major tail structural protein 
+ putative major tail tube protein 
+ putative major virion structural protein 
+ putative minor capsid protein 
+ putative minor head protein 
+ putative minor structural protein 
+ putative minor tail component 
+ putative minor tail protein 
+ putative minor tail protein L 
+ putative neck protein 
+ putative neck protein gp13 
+ putative neck protein (T4 gp13-like) 
+ putative phage structural protein 
+ putative phage tail component 
+ putative phage tail fiber protein 
+ Putative Phage tail fiber protein 
+ putative phage tail protein 
+ Putative phage tail protein 
+ putative phage tail tape measure protein 
+ putative portal 
+ putative portal gp5 
+ putative portal protein 
+ putative portal protein/putative head-tail connector protein 
+ putative portal vertex protein 
+ putative side tail fiber protein 
+ putative tail attachment protein 
+ putative tail completion and sheath stabiliser protein 
+ putative tail completion and sheath stabilizer 
+ putative tail completion and sheath stabilizer protein 
+ putative tail completion and tail stabilizer protein (T4 gp03-like) 
+ putative tail completion protein 
+ putative tail completion & sheath stabilizer protein gp3 
+ putative tail component 
+ putative tail-component 
+ putative tail fiber 
+ putative tail fiber adhesin protein 
+ putative tail fiber component 
+ putative tail fiber domain-containing protein 
+ putative tail fiber-like protein 
+ putative tail-fiber/lysozyme protein 
+ putative tail fiber protein 
+ putative tail-fiber protein 
+ putative tail fiber protein H 
+ putative tail fiber tip protein 
+ Putative tail fibre protein 
+ putative tail length tape-measure protein 
+ putative tail length tape-measure protein 1 
+ putative tail length tape measure protein I 
+ putative tail protein 
+ putative tail protein b 
+ putative tail protein I 
+ putative tail protein pb3 
+ putative tail-related protein 
+ putative tail sheath 
+ putative tail sheath protein 
+ putative tail sheath protein FI 
+ putative tail sheath protein gp18 
+ putative tail sheath stabilization protein 
+ putative tail sheat protein (T4 gp18-like) 
+ putative tail spike protein 
+ putative tailspike protein 
+ putative tail tape measure protein 
+ putative tail terminator protein 
+ putative tail tip complex protein 
+ putative tail tip fiber protein 
+ putative tail tip host specificity protein J 
+ putative tail tip protein 
+ putative tail tube associated base plate protein 
+ putative tail tube monomer 
+ putative tail tube monomer (T4 gp19-like) 
+ putative tail tube protein 
+ Putative tail tube protein 
+ putative tail tube protein gp19 
+ putative tail tube protein II 
+ putative tail tube protein (T4 gp19-like) 
+ putative tail tuber protein B 
+ putative tail tubular A 
+ putative tail tubular A protein 
+ putative tail tubular B protein 
+ putative tail tubular protein 
+ putative tail tubular protein A 
+ putative tail tubular protein B 
+ sheath protein 
+ sheath stabilizer protein 
+ short tail fiber protein 
+ siphovirus Gp157 family protein 
+ small major capsid protein 
+ spike protein 
+ SPP1 gp15-like head completion protein 
+ SPP1 gp16-like head completion protein 
+ SPP1 gp17-like tail completion protein 
+ straight fibre tail protein 
+ structral protein 
+ structural component of the tail fiber 
+ structural, host-like protein 
+ structural phage protein 
+ structural protein 
+ structural protein (endogenous virus) 
+ structural protein of head 
+ structural protein p72 
+ Structural protein p72 
+ structural protein, partial 
+ structural protein/portal protein 
+ structural protein VP4 
+ structural protein with Ig domain 
+ strucutral protein 
+ strucutural protein 
+ Strucutural protein, N4 gp52-like protein 
+ T4-like baseplate tail tube cap 
+ T4-like head completion protein 
+ T4-like phage head completion, neckhetero-dimeric protein 
+ T4-like phage protein, T4 GC1491 
+ T4-like tail tube protein 
+ Tai fiber 
+ tail accessory factor 
+ tail appendage 
+ tail assembly structural protein 
+ tail attachment protein 
+ tail baseplate protein 
+ tail collar fiber protein 
+ tail-collar fiber protein 
+ tail collar protein 
+ tail completion 
+ tail completion and sheath stabilizer 
+ tail completion and sheath stabilizer protein 
+ Tail completion and sheath stabilizer protein 
+ tail completion or Neck1 protein 
+ tail completion or Neck1 protein (endogenous virus) 
+ tail completion protein 
+ tail completion protein 1 
+ tail completion protein Tc1 
+ tail completion protein, type 1 
+ tail completion R family protein 
+ tail completrion and sheath stabiliser 
+ tail component 
+ tail component protein 
+ tail component Z 
+ tail family protein 
+ tail fiber 
+ tail fiber adhesin 
+ tail fiber domain-containing protein 
+ tail fiber-like protein 
+ tail fiber protein 
+ Tail fiber protein 
+ tail fiber protein and host specificity 
+ tail fiber protein (endogenous virus) 
+ tail fiber protein; host specificity 
+ tail fiber protein; Ig-domain containing 
+ tail fiber protein/ lysozyme 
+ tail fiber protein, partial 
+ tail fibers 
+ tail fibers protein 
+ tail fibre assembly protein 
+ tail hub A 
+ tail-like protein 
+ tail needle protein 
+ tail protein 
+ tail protein A 
+ tail protein and host specificity 
+ tail protein and host specificity, partial 
+ tail protein B 
+ tail protein (endogenous virus) 
+ tail protein I 
+ tail protein, partial 
+ tail protein Pb3 
+ tail protein / putative RBP 
+ tail protein T 
+ tail protein with endopeptidase domain 
+ tail protein with lysin activity 
+ tail sheath 
+ tail sheath and receptor binding protein 
+ tail sheath family protein 
+ tail sheath protein 
+ tail sheath protein FI 
+ tailspike 
+ tailspike 63D sialidase 
+ tail spike protein 
+ tailspike protein 
+ tail spike protein (endogenous virus) 
+ tail spike protein with colonic acid degradation activity 
+ tail subunit 
+ tail synthesis protein S 
+ tail tape measure 
+ tail tape measure domain protein 
+ tail tape measure protein 
+ tail tape-measure protein 
+ tail tapemeasure protein 
+ tail tape measure protein (endogenous virus) 
+ tail tape measure protein-like protein 
+ tail terminator 
+ tail terminator, partial 
+ tail terminator protein 
+ tail terminator protein (endogenous virus) 
+ tail tip complex protein 
+ tail tip host specificity protein J 
+ tail tip protein 
+ tail tip protein Tal 
+ tail to head joining protein 
+ tail tube 
+ tail tube A 
+ tail tube-associated base plate wedge protein 
+ tail tube gp3 head-proximal tip protein 
+ tail tube initiator protein 
+ tail tube-like protein 
+ tail tube monomer 
+ tail tube monomer protein 
+ tail tube protein 
+ tail tube protein A 
+ tail tubular A protein 
+ tail tubular B 
+ tail tubular B protein 
+ tail tubular protein 
+ tail tubular protein A 
+ tail tubular protein B 
+ tail tubular protein B (endogenous virus) 
+ Tc1 Phage tail completion protein 
+ til tube protein 
+ tip attachment protein 
+ vertex portal protein of the head 
+ vertex protein 
+ viral structural protein 
+ viral structural protein VP13 
+ virion scaffolding protein 
+ virion structural component 
+ virion structural protein 
+ Virion structural protein 
+ virion structural protein and packaging 
+ virion structural protein (endogenous virus) 
+ virion structural protein, partial 
+ VP1 
+ VP11 protein 
+ VP1 spike protein 
+ VP2 
+ VP2 precursor 
+ VP3 
+ VP4 
+ VP4 precursor 
+ VP5 precursor 
+ VP8 

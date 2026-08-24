@@ -1,0 +1,1 @@
+checkv end_to_end /scratch/eskoog/WATL_wet_dry_viral_analysis/WATL_wet_dry_viruses_uniqueIDs_virus_dereplicated.fna checkV_output/ -t 60

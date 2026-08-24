@@ -1,0 +1,47 @@
+Virus,Host genome,Host taxonomy,Main method,Confidence score,Additional methods
+k141_125134,GB_GCA_003559985.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Chitinophagales;f__Saprospiraceae;g__PWJY01;s__PWJY01 sp003559985,blast,93.70,iPHoP-RF;77.10
+k141_136931,3300012864_8,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Leclercia;s__,CRISPR,92.90,None
+k141_192778,GB_GCA_003550425.1,d__Bacteria;p__Actinomycetota;c__Actinomycetia;o__Euzebyales;f__Egibacteraceae;g__PUKE01;s__PUKE01 sp003550425,blast,92.60,None
+k141_228426,GB_GCA_003552925.1,d__Bacteria;p__Bacillota;c__Bacilli;o__Izemoplasmatales;f__Izemoplasmataceae;g__T1SED10-81;s__T1SED10-81 sp003552925,blast,92.20,iPHoP-RF;68.40
+k141_230827,RS_GCF_006171285.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Leclercia;s__Leclercia adecarboxylata_A,iPHoP-RF,93.70,None
+k141_230827,RS_GCF_011290365.1,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Leclercia;s__Leclercia sp003024485,iPHoP-RF,92.80,None
+k141_230827,3300012864_8,d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales;f__Enterobacteriaceae;g__Leclercia;s__,iPHoP-RF,90.80,None
+k141_252121,RS_GCF_024494685.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum rubrum,blast,93.40,iPHoP-RF;87.00
+k141_252121,GB_GCA_003023405.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp003023405,iPHoP-RF,92.40,None
+k141_333735,RS_GCF_000213575.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Dysgonomonadaceae;g__Dysgonomonas;s__Dysgonomonas mossii,iPHoP-RF,91.40,None
+k141_407993,GB_GCA_017551675.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1181;s__UBA1181 sp017551675,iPHoP-RF,95.10,None
+k141_407993,GB_GCA_902766045.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1181;s__UBA1181 sp902766045,iPHoP-RF,94.70,None
+k141_407993,GB_GCA_017430235.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1181;s__UBA1181 sp017430235,iPHoP-RF,94.40,None
+k141_407993,GB_GCA_015061115.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1723;s__UBA1723 sp015061115,iPHoP-RF,92.40,None
+k141_407993,GB_GCA_024401495.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1723;s__UBA1723 sp024401495,iPHoP-RF,92.40,None
+k141_407993,GB_GCA_902782665.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1723;s__UBA1723 sp902782665,iPHoP-RF,92.40,None
+k141_407993,GB_GCA_002392915.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1723;s__UBA1723 sp002392915,iPHoP-RF,92.10,None
+k141_407993,GB_GCA_024401555.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1181;s__UBA1181 sp024401555,iPHoP-RF,91.10,None
+k141_407993,GB_GCA_002317115.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1723;s__UBA1723 sp002317115,iPHoP-RF,90.80,None
+k141_407993,GB_GCA_002371265.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__UBA1723;s__UBA1723 sp002371265,iPHoP-RF,90.50,None
+k141_407993,GB_GCA_024401475.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RGIG10190;s__RGIG10190 sp024401475,iPHoP-RF,90.50,None
+k141_42181,GB_GCA_003563855.1,d__Bacteria;p__Verrucomicrobiota;c__Kiritimatiellia;o__PWTM01;f__PWTM01;g__PWTM01;s__PWTM01 sp003563855,blast,93.70,iPHoP-RF;60.60
+k141_434429,GB_GCA_002454195.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium sp002454195,iPHoP-RF,94.40,None
+k141_450561,GB_GCA_905235855.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__P3;g__UBA1711;s__UBA1711 sp905235855,iPHoP-RF,93.40,None
+k141_489168,RS_GCF_003697845.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum sp003697845,blast,93.60,iPHoP-RF;68.00
+k141_489168,RS_GCF_024494685.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halorubrum;s__Halorubrum rubrum,blast,91.70,iPHoP-RF;70.40
+k141_541011,3300025601_20,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983_A;f__JAACPR01;g__JAGOTN01;s__,iPHoP-RF,93.70,None
+k141_541011,3300027878_159,d__Bacteria;p__Patescibacteria;c__Paceibacteria;o__UBA9983_A;f__UBA5272;g__JALHNF01;s__,iPHoP-RF,90.50,None
+k141_620797,RS_GCF_019345525.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium sp019345525,iPHoP-RF,96.10,None
+k141_620797,RS_GCF_900114085.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium guanonis,iPHoP-RF,95.40,None
+k141_620797,RS_GCF_024171535.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium sp024171535,iPHoP-RF,94.40,None
+k141_620797,GB_GCA_002320285.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium sp002320285,iPHoP-RF,94.10,None
+k141_620797,RS_GCF_002886045.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavivirga;s__Flavivirga eckloniae,iPHoP-RF,93.40,None
+k141_620797,RS_GCF_020911925.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Flavobacterium;s__Flavobacterium sp001027725,iPHoP-RF,92.40,None
+k141_620797,RS_GCF_004804355.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Tamlana_C;s__Tamlana_C onchidii,iPHoP-RF,92.10,None
+k141_620797,RS_GCF_023273855.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Seonamhaeicola;s__Seonamhaeicola sp023273855,iPHoP-RF,91.80,None
+k141_620797,RS_GCF_900107625.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Bizionia;s__Bizionia paragorgiae,iPHoP-RF,91.80,None
+k141_620797,RS_GCF_009498295.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Wocania;s__Wocania sp009498295,iPHoP-RF,91.10,None
+k141_620797,3300025881_27,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Marixanthomonas;s__,iPHoP-RF,90.80,None
+k141_620797,MGYG000297035,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Flavobacteriaceae;g__Hel1-33-131;s__,iPHoP-RF,90.10,None
+k141_626607,GB_GCA_001563795.1,d__Archaea;p__Halobacteriota;c__Halobacteria;o__Halobacteriales;f__Haloferacaceae;g__Halohasta;s__Halohasta sp001563795,blast,95.50,iPHoP-RF;70.90
+k141_638124,GB_GCA_003554145.1,d__Bacteria;p__Bacillota_F;c__Halanaerobiia;o__B1SED10-174;f__B1SED10-174;g__T1SED10-26;s__T1SED10-26 sp003554145,blast,91.00,None
+k141_673995,GB_GCA_013140395.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__ELB16-189;s__ELB16-189 sp013140395,iPHoP-RF,93.70,None
+k141_673995,GB_GCA_015472025.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__ELB16-189;s__ELB16-189 sp015472025,iPHoP-RF,92.40,None
+k141_673995,GB_GCA_021299455.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Cytophagales;f__Cyclobacteriaceae;g__ELB16-189;s__ELB16-189 sp021299455,iPHoP-RF,91.10,None
+k141_76126,GB_GCA_011522905.1,d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Flavobacteriales;f__Crocinitomicaceae;g__UBA952;s__UBA952 sp011522905,iPHoP-RF,90.50,None
